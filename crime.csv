@@ -1,0 +1,890 @@
+Record ID,Agency Code,Agency_Name,Agency_Type,City,State,Year,Month,Incident,Crime_Type,Crime Solved,Victim_Sex,Victim Age,Victim Race,Victim Ethnicity,Perpetrator Sex,Perpetrator Age,Perpetrator Race,Perpetrator Ethnicity,Relationship,Weapon,Victim Count,Perpetrator Count,Record Source
+1,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,January,1,Murder or Manslaughter,Yes,Male,14,Native American/Alaska Native,Unknown,Male,15,Native American/Alaska Native,Unknown,Acquaintance,Blunt Object,0,0,FBI
+2,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,March,1,Murder or Manslaughter,Yes,Male,43,White,Unknown,Male,42,White,Unknown,Acquaintance,Strangulation,0,0,FBI
+3,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,March,2,Murder or Manslaughter,No,Female,30,Native American/Alaska Native,Unknown,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+4,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,April,1,Murder or Manslaughter,Yes,Male,43,White,Unknown,Male,42,White,Unknown,Acquaintance,Strangulation,0,0,FBI
+5,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,April,2,Murder or Manslaughter,No,Female,30,Native American/Alaska Native,Unknown,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,1,FBI
+6,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,May,1,Murder or Manslaughter,Yes,Male,30,White,Unknown,Male,36,White,Unknown,Acquaintance,Rifle,0,0,FBI
+7,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,May,2,Murder or Manslaughter,Yes,Female,42,Native American/Alaska Native,Unknown,Male,27,Black,Unknown,Wife,Knife,0,0,FBI
+8,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,June,1,Murder or Manslaughter,Yes,Female,99,White,Unknown,Male,35,White,Unknown,Wife,Knife,0,0,FBI
+9,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,June,2,Murder or Manslaughter,No,Male,32,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Firearm,0,0,FBI
+10,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,June,3,Murder or Manslaughter,Yes,Male,38,White,Unknown,Male,40,Unknown,Unknown,Unknown,Firearm,0,1,FBI
+11,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,July,1,Murder or Manslaughter,No,Male,36,Native American/Alaska Native,Unknown,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,1,FBI
+12,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,July,2,Murder or Manslaughter,Yes,Male,20,White,Unknown,Male,49,White,Unknown,Stranger,Shotgun,0,0,FBI
+15,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,August,2,Murder or Manslaughter,No,Male,48,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+27,AKASP00,Alaska State Police,State Police,Juneau,Alaska,1980,February,1,Murder or Manslaughter,No,Male,27,Black,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+33,AKASP00,Alaska State Police,State Police,Juneau,Alaska,1980,July,1,Murder or Manslaughter,No,Male,25,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+34,AKASP00,Alaska State Police,State Police,Juneau,Alaska,1980,July,2,Murder or Manslaughter,No,Male,24,Native American/Alaska Native,Unknown,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+35,AKASP00,Alaska State Police,State Police,Juneau,Alaska,1980,July,3,Murder or Manslaughter,No,Male,33,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Firearm,0,0,FBI
+39,AKASP00,Alaska State Police,State Police,Juneau,Alaska,1980,October,2,Murder or Manslaughter,No,Female,22,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Firearm,0,0,FBI
+56,AL00100,Jefferson,Sheriff,Jefferson,Alabama,1980,August,1,Murder or Manslaughter,No,Male,29,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Firearm,0,1,FBI
+60,AL00100,Jefferson,Sheriff,Jefferson,Alabama,1980,October,1,Murder or Manslaughter,No,Male,23,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+96,AL00102,Birmingham,Municipal Police,Jefferson,Alabama,1980,March,5,Murder or Manslaughter,No,Male,30,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+112,AL00102,Birmingham,Municipal Police,Jefferson,Alabama,1980,June,4,Murder or Manslaughter,No,Female,31,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+114,AL00102,Birmingham,Municipal Police,Jefferson,Alabama,1980,June,6,Murder or Manslaughter,No,Female,40,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+115,AL00102,Birmingham,Municipal Police,Jefferson,Alabama,1980,June,7,Murder or Manslaughter,No,Male,40,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,1,FBI
+133,AL00102,Birmingham,Municipal Police,Jefferson,Alabama,1980,August,9,Murder or Manslaughter,No,Male,50,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+135,AL00102,Birmingham,Municipal Police,Jefferson,Alabama,1980,August,11,Murder or Manslaughter,No,Male,70,White,Not Hispanic,Unknown,0,Unknown,Unknown,Stranger,Shotgun,0,1,FBI
+137,AL00102,Birmingham,Municipal Police,Jefferson,Alabama,1980,September,2,Murder or Manslaughter,No,Female,74,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+144,AL00102,Birmingham,Municipal Police,Jefferson,Alabama,1980,October,6,Murder or Manslaughter,No,Male,30,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Shotgun,0,1,FBI
+148,AL00102,Birmingham,Municipal Police,Jefferson,Alabama,1980,October,10,Murder or Manslaughter,No,Male,25,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+149,AL00102,Birmingham,Municipal Police,Jefferson,Alabama,1980,October,11,Murder or Manslaughter,No,Female,24,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+153,AL00102,Birmingham,Municipal Police,Jefferson,Alabama,1980,November,4,Murder or Manslaughter,No,Female,76,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,1,FBI
+156,AL00102,Birmingham,Municipal Police,Jefferson,Alabama,1980,November,7,Murder or Manslaughter,No,Male,60,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,1,FBI
+159,AL00102,Birmingham,Municipal Police,Jefferson,Alabama,1980,December,4,Murder or Manslaughter,No,Male,40,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Shotgun,0,1,FBI
+178,AL00200,Mobile,Sheriff,Mobile,Alabama,1980,January,1,Murder or Manslaughter,No,Male,29,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+184,AL00200,Mobile,Sheriff,Mobile,Alabama,1980,March,3,Murder or Manslaughter,No,Male,65,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+198,AL00201,Mobile,Municipal Police,Mobile,Alabama,1980,February,1,Murder or Manslaughter,No,Male,37,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Firearm,0,1,FBI
+210,AL00201,Mobile,Municipal Police,Mobile,Alabama,1980,May,1,Murder or Manslaughter,No,Female,18,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+211,AL00201,Mobile,Municipal Police,Mobile,Alabama,1980,May,2,Murder or Manslaughter,No,Male,63,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,1,FBI
+213,AL00201,Mobile,Municipal Police,Mobile,Alabama,1980,May,4,Murder or Manslaughter,No,Male,29,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+215,AL00201,Mobile,Municipal Police,Mobile,Alabama,1980,May,6,Murder or Manslaughter,No,Female,45,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+229,AL00201,Mobile,Municipal Police,Mobile,Alabama,1980,September,3,Murder or Manslaughter,No,Female,19,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Knife,0,1,FBI
+234,AL00201,Mobile,Municipal Police,Mobile,Alabama,1980,October,2,Murder or Manslaughter,No,Male,43,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,1,FBI
+237,AL00201,Mobile,Municipal Police,Mobile,Alabama,1980,October,5,Murder or Manslaughter,No,Male,65,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Knife,0,1,FBI
+253,AL00202,Prichard,Municipal Police,Mobile,Alabama,1980,April,1,Murder or Manslaughter,No,Male,59,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Shotgun,0,1,FBI
+259,AL00202,Prichard,Municipal Police,Mobile,Alabama,1980,October,1,Murder or Manslaughter,No,Male,21,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+262,AL00203,Chickasaw,Municipal Police,Mobile,Alabama,1980,May,1,Murder or Manslaughter,No,Male,39,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+280,AL00301,Montgomery,Municipal Police,Montgomery,Alabama,1980,May,1,Murder or Manslaughter,No,Female,65,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+281,AL00301,Montgomery,Municipal Police,Montgomery,Alabama,1980,May,2,Murder or Manslaughter,No,Male,52,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+303,AL00301,Montgomery,Municipal Police,Montgomery,Alabama,1980,December,3,Murder or Manslaughter,No,Male,68,Black,Unknown,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+346,AL01800,Cleburne,Sheriff,Cleburne,Alabama,1980,January,1,Murder or Manslaughter,No,Male,79,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,3,1,FBI
+347,AL01800,Cleburne,Sheriff,Cleburne,Alabama,1980,January,1,Murder or Manslaughter,No,Female,77,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,3,1,FBI
+348,AL01800,Cleburne,Sheriff,Cleburne,Alabama,1980,January,1,Murder or Manslaughter,No,Female,63,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,3,1,FBI
+349,AL01800,Cleburne,Sheriff,Cleburne,Alabama,1980,January,1,Murder or Manslaughter,No,Male,99,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,3,1,FBI
+364,AL02500,Cullman,Sheriff,Cullman,Alabama,1980,June,1,Murder or Manslaughter,No,Female,31,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+369,AL02700,Dallas,Sheriff,Dallas,Alabama,1980,March,1,Murder or Manslaughter,No,Male,47,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Shotgun,0,0,FBI
+373,AL02900,Elmore,Sheriff,Elmore,Alabama,1980,October,1,Murder or Manslaughter,Yes,Female,56,White,Not Hispanic,Male,65,White,Not Hispanic,Family,Handgun,2,0,FBI
+374,AL02900,Elmore,Sheriff,Elmore,Alabama,1980,October,1,Murder or Manslaughter,Yes,Male,4,White,Not Hispanic,Male,65,White,Not Hispanic,Family,Handgun,2,0,FBI
+375,AL02900,Elmore,Sheriff,Elmore,Alabama,1980,January,1,Murder or Manslaughter,Yes,Male,34,Black,Unknown,Male,39,Black,Unknown,Acquaintance,Knife,0,0,FBI
+376,AL02900,Elmore,Sheriff,Elmore,Alabama,1980,April,1,Murder or Manslaughter,Yes,Male,31,White,Unknown,Female,49,White,Unknown,Acquaintance,Handgun,0,0,FBI
+377,AL02900,Elmore,Sheriff,Elmore,Alabama,1980,June,1,Murder or Manslaughter,Yes,Male,29,Black,Unknown,Male,42,Black,Unknown,Acquaintance,Rifle,0,0,FBI
+378,AL02900,Elmore,Sheriff,Elmore,Alabama,1980,July,1,Murder or Manslaughter,Yes,Male,29,White,Unknown,Male,34,White,Unknown,Acquaintance,Handgun,0,0,FBI
+379,AL02900,Elmore,Sheriff,Elmore,Alabama,1980,July,2,Murder or Manslaughter,Yes,Male,26,White,Unknown,Male,27,White,Unknown,Acquaintance,Rifle,0,0,FBI
+380,AL02900,Elmore,Sheriff,Elmore,Alabama,1980,September,1,Murder or Manslaughter,No,Female,56,Black,Unknown,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,1,FBI
+381,AL02900,Elmore,Sheriff,Elmore,Alabama,1980,September,2,Murder or Manslaughter,No,Female,40,Black,Unknown,Unknown,0,Unknown,Unknown,Unknown,Strangulation,0,1,FBI
+382,AL02900,Elmore,Sheriff,Elmore,Alabama,1980,October,1,Murder or Manslaughter,Yes,Male,0,White,Not Hispanic,Male,65,White,Not Hispanic,Family,Handgun,2,0,FBI
+383,AL02900,Elmore,Sheriff,Elmore,Alabama,1980,October,2,Murder or Manslaughter,Yes,Male,23,Black,Not Hispanic,Male,25,Black,Not Hispanic,In-Law,Shotgun,0,0,FBI
+384,AL02900,Elmore,Sheriff,Elmore,Alabama,1980,October,4,Murder or Manslaughter,Yes,Male,23,Black,Not Hispanic,Male,25,Black,Not Hispanic,In-Law,Shotgun,0,0,FBI
+385,AL02900,Elmore,Sheriff,Elmore,Alabama,1980,November,1,Murder or Manslaughter,Yes,Male,37,Black,Not Hispanic,Female,34,Black,Not Hispanic,Common-Law Husband,Shotgun,0,0,FBI
+386,AL02902,Tallassee,Municipal Police,Elmore,Alabama,1980,December,1,Murder or Manslaughter,Yes,Female,42,White,Hispanic,Male,43,White,Hispanic,Ex-Wife,Handgun,0,0,FBI
+387,AL03001,Atmore,Municipal Police,Escambia,Alabama,1980,April,1,Murder or Manslaughter,Yes,Male,45,White,Not Hispanic,Male,39,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+388,AL03002,Brewton,Municipal Police,Escambia,Alabama,1980,July,1,Murder or Manslaughter,Yes,Male,41,White,Not Hispanic,Male,35,White,Not Hispanic,Acquaintance,Shotgun,0,0,FBI
+389,AL03101,Attalla,Municipal Police,Etowah,Alabama,1980,May,1,Murder or Manslaughter,Yes,Male,34,Black,Not Hispanic,Male,20,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+390,AL03101,Attalla,Municipal Police,Etowah,Alabama,1980,August,1,Murder or Manslaughter,Yes,Male,55,White,Unknown,Male,47,White,Unknown,Acquaintance,Blunt Object,0,0,FBI
+391,AL03102,Gadsden,Municipal Police,Etowah,Alabama,1980,February,1,Murder or Manslaughter,Yes,Female,36,Black,Not Hispanic,Male,41,Black,Not Hispanic,Wife,Knife,0,0,FBI
+392,AL03102,Gadsden,Municipal Police,Etowah,Alabama,1980,March,1,Murder or Manslaughter,Yes,Male,23,White,Not Hispanic,Male,29,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+393,AL03102,Gadsden,Municipal Police,Etowah,Alabama,1980,March,2,Murder or Manslaughter,Yes,Male,30,Black,Not Hispanic,Male,24,Black,Not Hispanic,Brother,Handgun,0,0,FBI
+394,AL03102,Gadsden,Municipal Police,Etowah,Alabama,1980,April,1,Murder or Manslaughter,Yes,Female,35,White,Not Hispanic,Male,45,White,Not Hispanic,Common-Law Wife,Firearm,0,0,FBI
+395,AL03102,Gadsden,Municipal Police,Etowah,Alabama,1980,June,1,Murder or Manslaughter,No,Female,29,Black,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+396,AL03102,Gadsden,Municipal Police,Etowah,Alabama,1980,June,2,Murder or Manslaughter,Yes,Male,25,White,Unknown,Male,48,White,Unknown,Son,Handgun,0,0,FBI
+397,AL03102,Gadsden,Municipal Police,Etowah,Alabama,1980,June,3,Murder or Manslaughter,Yes,Female,52,Black,Unknown,Male,76,Black,Unknown,Common-Law Wife,Handgun,0,0,FBI
+398,AL03102,Gadsden,Municipal Police,Etowah,Alabama,1980,June,4,Murder or Manslaughter,Yes,Female,40,Black,Unknown,Male,65,Black,Unknown,Acquaintance,Handgun,0,0,FBI
+399,AL03102,Gadsden,Municipal Police,Etowah,Alabama,1980,September,1,Murder or Manslaughter,Yes,Male,24,Black,Unknown,Male,20,Black,Unknown,Acquaintance,Knife,0,0,FBI
+400,AL03102,Gadsden,Municipal Police,Etowah,Alabama,1980,September,2,Murder or Manslaughter,No,Male,24,Black,Unknown,Unknown,0,Unknown,Unknown,Unknown,Firearm,0,0,FBI
+401,AL03102,Gadsden,Municipal Police,Etowah,Alabama,1980,October,1,Murder or Manslaughter,Yes,Male,31,Black,Unknown,Female,39,Black,Unknown,Common-Law Husband,Handgun,0,0,FBI
+402,AL03102,Gadsden,Municipal Police,Etowah,Alabama,1980,November,1,Murder or Manslaughter,Yes,Male,24,White,Unknown,Male,34,White,Unknown,Acquaintance,Shotgun,0,0,FBI
+403,AL03200,Fayette,Sheriff,Fayette,Alabama,1980,September,1,Murder or Manslaughter,No,Female,25,Black,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+404,AL03201,Fayette,Municipal Police,Fayette,Alabama,1980,July,1,Murder or Manslaughter,Yes,Male,47,Black,Not Hispanic,Male,29,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+405,AL03300,Franklin,Sheriff,Franklin,Alabama,1980,April,1,Murder or Manslaughter,Yes,Male,35,White,Unknown,Female,26,White,Unknown,Husband,Handgun,0,0,FBI
+406,AL03303,Red Bay,Municipal Police,Franklin,Alabama,1980,August,1,Murder or Manslaughter,Yes,Male,31,White,Not Hispanic,Male,37,White,Not Hispanic,Brother,Handgun,0,0,FBI
+407,AL03400,Geneva,Sheriff,Geneva,Alabama,1980,April,1,Murder or Manslaughter,Yes,Male,29,Black,Not Hispanic,Female,30,Black,Not Hispanic,Husband,Handgun,0,0,FBI
+408,AL03500,Greene,Sheriff,Greene,Alabama,1980,January,1,Murder or Manslaughter,Yes,Male,25,Black,Unknown,Female,28,Black,Unknown,Acquaintance,Knife,0,0,FBI
+409,AL03500,Greene,Sheriff,Greene,Alabama,1980,March,1,Murder or Manslaughter,Yes,Female,31,Black,Unknown,Male,32,Black,Unknown,Wife,Shotgun,0,0,FBI
+410,AL03800,Houston,Sheriff,Houston,Alabama,1980,March,1,Murder or Manslaughter,Yes,Male,23,Black,Not Hispanic,Male,37,Black,Not Hispanic,Acquaintance,Knife,0,0,FBI
+411,AL03801,Dothan,Municipal Police,Houston,Alabama,1980,March,1,Murder or Manslaughter,Yes,Male,46,Black,Unknown,Female,17,Black,Unknown,Boyfriend,Handgun,0,0,FBI
+412,AL03801,Dothan,Municipal Police,Houston,Alabama,1980,July,1,Murder or Manslaughter,Yes,Male,19,Black,Not Hispanic,Male,26,Black,Not Hispanic,Stranger,Knife,0,0,FBI
+413,AL03801,Dothan,Municipal Police,Houston,Alabama,1980,July,2,Murder or Manslaughter,Yes,Male,29,Black,Not Hispanic,Male,31,Black,Not Hispanic,Acquaintance,Shotgun,0,0,FBI
+414,AL03801,Dothan,Municipal Police,Houston,Alabama,1980,August,1,Murder or Manslaughter,Yes,Female,27,Black,Not Hispanic,Male,31,Black,Not Hispanic,Common-Law Wife,Strangulation,0,0,FBI
+415,AL03801,Dothan,Municipal Police,Houston,Alabama,1980,November,1,Murder or Manslaughter,Yes,Female,47,White,Not Hispanic,Male,19,White,Not Hispanic,Mother,Blunt Object,0,0,FBI
+416,AL03801,Dothan,Municipal Police,Houston,Alabama,1980,December,1,Murder or Manslaughter,Yes,Male,45,Black,Not Hispanic,Female,32,Black,Not Hispanic,Boyfriend,Knife,0,0,FBI
+417,AL03900,Jackson,Sheriff,Jackson,Alabama,1980,July,1,Murder or Manslaughter,Yes,Female,50,White,Unknown,Male,32,White,Unknown,Stranger,Drowning,0,1,FBI
+418,AL03900,Jackson,Sheriff,Jackson,Alabama,1980,August,1,Murder or Manslaughter,Yes,Male,20,White,Unknown,Male,54,White,Unknown,Son,Rifle,0,0,FBI
+419,AL03900,Jackson,Sheriff,Jackson,Alabama,1980,September,1,Murder or Manslaughter,Yes,Female,37,White,Unknown,Male,47,White,Unknown,Wife,Handgun,0,0,FBI
+420,AL03900,Jackson,Sheriff,Jackson,Alabama,1980,October,1,Murder or Manslaughter,Yes,Male,50,White,Unknown,Male,32,White,Unknown,Acquaintance,Blunt Object,0,4,FBI
+421,AL03901,Scottsboro,Municipal Police,Jackson,Alabama,1980,May,1,Murder or Manslaughter,Yes,Male,29,Black,Not Hispanic,Male,26,Black,Not Hispanic,Neighbor,Shotgun,0,1,FBI
+422,AL04000,Lamar,Sheriff,Lamar,Alabama,1980,June,1,Murder or Manslaughter,Yes,Male,35,Black,Unknown,Male,49,Black,Unknown,Acquaintance,Handgun,0,0,FBI
+423,AL04100,Lauderdale,Sheriff,Lauderdale,Alabama,1980,January,1,Murder or Manslaughter,Yes,Male,37,White,Not Hispanic,Male,36,White,Not Hispanic,Acquaintance,Shotgun,0,0,FBI
+424,AL04100,Lauderdale,Sheriff,Lauderdale,Alabama,1980,February,1,Murder or Manslaughter,Yes,Male,45,White,Not Hispanic,Female,22,White,Not Hispanic,Acquaintance,Blunt Object,0,2,FBI
+425,AL04100,Lauderdale,Sheriff,Lauderdale,Alabama,1980,March,1,Murder or Manslaughter,Yes,Male,64,White,Not Hispanic,Male,33,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+426,AL04100,Lauderdale,Sheriff,Lauderdale,Alabama,1980,April,1,Murder or Manslaughter,Yes,Male,30,White,Unknown,Male,32,White,Unknown,Acquaintance,Shotgun,0,0,FBI
+427,AL04100,Lauderdale,Sheriff,Lauderdale,Alabama,1980,September,1,Murder or Manslaughter,Yes,Male,33,Black,Unknown,Male,45,Black,Unknown,Acquaintance,Handgun,0,0,FBI
+428,AL04101,Florence,Municipal Police,Lauderdale,Alabama,1980,January,1,Murder or Manslaughter,Yes,Male,48,White,Unknown,Male,39,Black,Unknown,Stranger,Handgun,0,0,FBI
+429,AL04101,Florence,Municipal Police,Lauderdale,Alabama,1980,July,1,Murder or Manslaughter,Yes,Male,19,White,Unknown,Male,14,White,Unknown,Acquaintance,Handgun,0,0,FBI
+430,AL04101,Florence,Municipal Police,Lauderdale,Alabama,1980,July,2,Murder or Manslaughter,Yes,Male,41,White,Unknown,Female,33,White,Unknown,Ex-Husband,Handgun,0,0,FBI
+431,AL04101,Florence,Municipal Police,Lauderdale,Alabama,1980,August,1,Murder or Manslaughter,Yes,Female,35,White,Unknown,Male,39,White,Unknown,Ex-Wife,Handgun,0,0,FBI
+432,AL04101,Florence,Municipal Police,Lauderdale,Alabama,1980,August,2,Murder or Manslaughter,Yes,Male,69,Black,Unknown,Male,26,Black,Unknown,Stranger,Shotgun,0,1,FBI
+433,AL04200,Lawrence,Sheriff,Lawrence,Alabama,1980,March,1,Murder or Manslaughter,Yes,Female,82,Black,Not Hispanic,Male,26,Black,Not Hispanic,Family,Strangulation,1,0,FBI
+434,AL04200,Lawrence,Sheriff,Lawrence,Alabama,1980,March,1,Murder or Manslaughter,Yes,Female,65,Black,Not Hispanic,Male,26,Black,Not Hispanic,Family,Strangulation,1,0,FBI
+435,AL04200,Lawrence,Sheriff,Lawrence,Alabama,1980,May,1,Murder or Manslaughter,Yes,Male,49,White,Not Hispanic,Male,54,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+436,AL04200,Lawrence,Sheriff,Lawrence,Alabama,1980,May,2,Murder or Manslaughter,Yes,Female,32,Black,Not Hispanic,Male,58,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+437,AL04200,Lawrence,Sheriff,Lawrence,Alabama,1980,May,3,Murder or Manslaughter,Yes,Female,37,White,Not Hispanic,Male,48,White,Not Hispanic,Common-Law Wife,Blunt Object,0,0,FBI
+438,AL04200,Lawrence,Sheriff,Lawrence,Alabama,1980,June,1,Murder or Manslaughter,Yes,Male,51,White,Not Hispanic,Male,32,White,Not Hispanic,Friend,Handgun,0,0,FBI
+439,AL04300,Lee,Sheriff,Lee,Alabama,1980,August,1,Murder or Manslaughter,Yes,Male,35,White,Unknown,Female,29,White,Unknown,Husband,Handgun,0,0,FBI
+440,AL04301,Auburn,Municipal Police,Lee,Alabama,1980,March,1,Murder or Manslaughter,Yes,Male,29,White,Not Hispanic,Female,22,White,Not Hispanic,Husband,Shotgun,0,0,FBI
+441,AL04301,Auburn,Municipal Police,Lee,Alabama,1980,July,1,Murder or Manslaughter,Yes,Male,28,White,Not Hispanic,Male,21,White,Not Hispanic,In-Law,Blunt Object,0,0,FBI
+442,AL04302,Opelika,Municipal Police,Lee,Alabama,1980,June,1,Manslaughter by Negligence,Yes,Male,36,Black,Not Hispanic,Male,46,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+443,AL04302,Opelika,Municipal Police,Lee,Alabama,1980,July,1,Murder or Manslaughter,Yes,Male,38,White,Not Hispanic,Male,25,White,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+444,AL04302,Opelika,Municipal Police,Lee,Alabama,1980,August,1,Murder or Manslaughter,Yes,Male,58,Black,Unknown,Male,58,Black,Unknown,Acquaintance,Shotgun,0,0,FBI
+445,AL04400,Limestone,Sheriff,Limestone,Alabama,1980,September,1,Murder or Manslaughter,Yes,Male,22,White,Not Hispanic,Male,33,White,Not Hispanic,Acquaintance,Shotgun,0,5,FBI
+446,AL04400,Limestone,Sheriff,Limestone,Alabama,1980,November,1,Murder or Manslaughter,No,Male,33,White,Not Hispanic,Unknown,0,Unknown,Unknown,Stranger,Knife,0,2,FBI
+447,AL04401,Athens,Municipal Police,Limestone,Alabama,1980,January,1,Murder or Manslaughter,No,Female,27,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+448,AL04401,Athens,Municipal Police,Limestone,Alabama,1980,August,1,Murder or Manslaughter,Yes,Female,29,Black,Unknown,Male,35,Black,Unknown,Common-Law Wife,Knife,0,0,FBI
+449,AL04500,Lowndes,Sheriff,Lowndes,Alabama,1980,January,1,Murder or Manslaughter,Yes,Female,27,Black,Unknown,Male,30,Black,Unknown,Wife,Shotgun,0,0,FBI
+450,AL04601,Tuskegee,Municipal Police,Macon,Alabama,1980,July,1,Murder or Manslaughter,Yes,Female,20,Black,Unknown,Male,21,Black,Unknown,Acquaintance,Handgun,0,0,FBI
+451,AL04601,Tuskegee,Municipal Police,Macon,Alabama,1980,July,2,Murder or Manslaughter,Yes,Male,21,Black,Unknown,Female,21,Black,Unknown,Husband,Shotgun,0,0,FBI
+452,AL04700,Madison,Sheriff,Madison,Alabama,1980,October,1,Murder or Manslaughter,Yes,Female,82,White,Not Hispanic,Male,27,Black,Not Hispanic,Unknown,Knife,0,0,FBI
+453,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,January,1,Murder or Manslaughter,Yes,Female,42,White,Unknown,Male,36,White,Unknown,Ex-Wife,Handgun,1,0,FBI
+454,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,March,2,Murder or Manslaughter,Yes,Male,38,White,Unknown,Male,23,White,Unknown,Acquaintance,Handgun,1,0,FBI
+455,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,January,1,Murder or Manslaughter,Yes,Female,36,White,Unknown,Male,36,White,Unknown,Ex-Wife,Handgun,1,0,FBI
+456,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,February,1,Murder or Manslaughter,Yes,Male,44,White,Unknown,Female,32,White,Unknown,Husband,Handgun,0,0,FBI
+457,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,February,2,Murder or Manslaughter,Yes,Male,24,White,Unknown,Male,32,White,Unknown,Acquaintance,Handgun,0,0,FBI
+458,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,March,1,Murder or Manslaughter,No,Male,30,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+459,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,March,2,Murder or Manslaughter,Yes,Male,31,White,Unknown,Male,23,White,Unknown,Acquaintance,Handgun,1,0,FBI
+460,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,March,3,Murder or Manslaughter,Yes,Male,49,White,Unknown,Female,50,White,Unknown,Husband,Knife,0,0,FBI
+461,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,April,1,Murder or Manslaughter,Yes,Male,39,Black,Unknown,Male,28,Black,Unknown,Acquaintance,Handgun,0,0,FBI
+462,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,April,2,Murder or Manslaughter,Yes,Female,36,White,Unknown,Male,37,White,Unknown,Wife,Handgun,0,0,FBI
+463,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,April,3,Murder or Manslaughter,Yes,Female,38,White,Unknown,Male,41,White,Unknown,Wife,Rifle,0,0,FBI
+464,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,May,1,Murder or Manslaughter,Yes,Male,22,Black,Unknown,Male,26,Black,Unknown,Acquaintance,Rifle,0,0,FBI
+465,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,May,2,Murder or Manslaughter,Yes,Male,21,Black,Unknown,Male,19,Black,Unknown,Brother,Knife,0,0,FBI
+466,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,July,1,Murder or Manslaughter,Yes,Male,26,Black,Unknown,Female,19,Black,Unknown,Acquaintance,Knife,0,0,FBI
+467,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,July,2,Murder or Manslaughter,Yes,Female,29,White,Unknown,Male,38,White,Unknown,Wife,Shotgun,0,0,FBI
+468,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,July,3,Murder or Manslaughter,Yes,Male,21,White,Unknown,Male,24,Black,Unknown,Stranger,Handgun,0,0,FBI
+469,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,August,1,Murder or Manslaughter,No,Male,30,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+470,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,August,2,Murder or Manslaughter,Yes,Male,57,White,Unknown,Male,37,White,Unknown,Acquaintance,Handgun,0,0,FBI
+471,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,October,1,Murder or Manslaughter,Yes,Male,44,Black,Unknown,Male,34,Black,Unknown,Acquaintance,Shotgun,0,0,FBI
+472,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,October,2,Murder or Manslaughter,Yes,Male,38,Black,Unknown,Female,38,Black,Unknown,Ex-Husband,Shotgun,0,0,FBI
+473,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,October,3,Murder or Manslaughter,Yes,Male,39,White,Unknown,Male,27,Black,Unknown,Stranger,Knife,0,0,FBI
+474,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,November,1,Murder or Manslaughter,Yes,Male,31,White,Unknown,Male,23,White,Unknown,Acquaintance,Shotgun,0,2,FBI
+475,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,December,1,Murder or Manslaughter,Yes,Male,34,Black,Unknown,Male,33,Black,Unknown,Acquaintance,Handgun,0,0,FBI
+476,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,December,2,Murder or Manslaughter,Yes,Male,32,Black,Unknown,Male,33,Black,Unknown,In-Law,Blunt Object,0,0,FBI
+477,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,December,3,Murder or Manslaughter,Yes,Male,43,Black,Unknown,Male,51,Black,Unknown,Acquaintance,Shotgun,0,0,FBI
+478,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,December,4,Murder or Manslaughter,Yes,Female,23,White,Unknown,Male,31,White,Unknown,Wife,Knife,0,0,FBI
+479,AL04701,Huntsville,Municipal Police,Madison,Alabama,1980,December,5,Murder or Manslaughter,Yes,Female,27,White,Unknown,Male,37,White,Unknown,Wife,Handgun,0,0,FBI
+480,AL04704,New Hope,Municipal Police,Madison,Alabama,1980,May,1,Murder or Manslaughter,Yes,Male,53,White,Unknown,Male,71,White,Unknown,Stranger,Shotgun,0,0,FBI
+481,AL04705,Owens Crossroads,Municipal Police,Madison,Alabama,1980,November,1,Murder or Manslaughter,Yes,Male,50,White,Unknown,Male,26,White,Not Hispanic,Acquaintance,Shotgun,0,0,FBI
+482,AL04800,Marengo,Sheriff,Marengo,Alabama,1980,February,1,Murder or Manslaughter,Yes,Male,50,Black,Unknown,Female,22,Black,Unknown,Father,Knife,0,0,FBI
+483,AL04800,Marengo,Sheriff,Marengo,Alabama,1980,March,1,Murder or Manslaughter,Yes,Female,18,Black,Not Hispanic,Male,22,Black,Not Hispanic,Sister,Shotgun,0,0,FBI
+484,AL04800,Marengo,Sheriff,Marengo,Alabama,1980,August,1,Murder or Manslaughter,Yes,Female,22,Black,Not Hispanic,Male,63,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+485,AL04904,Hackleburg,Municipal Police,Marion,Alabama,1980,October,1,Murder or Manslaughter,Yes,Male,53,White,Unknown,Female,44,White,Unknown,Acquaintance,Handgun,0,0,FBI
+486,AL05000,Marshall,Sheriff,Marshall,Alabama,1980,February,1,Murder or Manslaughter,Yes,Female,48,White,Unknown,Male,33,White,Unknown,Acquaintance,Rifle,1,0,FBI
+487,AL05000,Marshall,Sheriff,Marshall,Alabama,1980,February,1,Murder or Manslaughter,Yes,Male,4,White,Unknown,Male,33,White,Unknown,Acquaintance,Rifle,1,0,FBI
+488,AL05000,Marshall,Sheriff,Marshall,Alabama,1980,May,1,Murder or Manslaughter,Yes,Male,30,White,Not Hispanic,Female,45,White,Not Hispanic,Husband,Rifle,0,1,FBI
+489,AL05000,Marshall,Sheriff,Marshall,Alabama,1980,May,2,Murder or Manslaughter,Yes,Female,36,White,Not Hispanic,Male,55,White,Not Hispanic,Wife,Handgun,0,0,FBI
+490,AL05001,Albertville,Municipal Police,Marshall,Alabama,1980,November,1,Murder or Manslaughter,Yes,Male,42,White,Not Hispanic,Male,46,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+491,AL05200,Morgan,Sheriff,Morgan,Alabama,1980,February,1,Murder or Manslaughter,Yes,Male,36,White,Unknown,Female,34,White,Unknown,Husband,Handgun,0,0,FBI
+492,AL05200,Morgan,Sheriff,Morgan,Alabama,1980,June,1,Murder or Manslaughter,Yes,Male,68,White,Unknown,Male,32,White,Unknown,Unknown,Handgun,0,0,FBI
+493,AL05200,Morgan,Sheriff,Morgan,Alabama,1980,September,1,Murder or Manslaughter,Yes,Female,17,White,Not Hispanic,Male,28,White,Not Hispanic,Wife,Rifle,0,0,FBI
+494,AL05200,Morgan,Sheriff,Morgan,Alabama,1980,December,1,Murder or Manslaughter,Yes,Male,60,Black,Not Hispanic,Male,49,Black,Not Hispanic,Stranger,Shotgun,0,0,FBI
+495,AL05201,Decatur,Municipal Police,Morgan,Alabama,1980,August,1,Murder or Manslaughter,Yes,Male,62,White,Unknown,Male,19,White,Not Hispanic,Stepfather,Blunt Object,1,0,FBI
+496,AL05201,Decatur,Municipal Police,Morgan,Alabama,1980,August,1,Murder or Manslaughter,Yes,Male,40,White,Unknown,Male,19,White,Not Hispanic,Stepfather,Blunt Object,1,0,FBI
+497,AL05201,Decatur,Municipal Police,Morgan,Alabama,1980,December,1,Murder or Manslaughter,No,Female,70,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,1,FBI
+498,AL05202,Hartselle,Municipal Police,Morgan,Alabama,1980,August,1,Murder or Manslaughter,Yes,Male,23,Black,Not Hispanic,Female,41,Black,Not Hispanic,Boyfriend,Shotgun,0,0,FBI
+499,AL05300,Perry,Sheriff,Perry,Alabama,1980,August,1,Murder or Manslaughter,Yes,Female,85,Black,Unknown,Male,50,Black,Unknown,Mother,Shotgun,0,0,FBI
+500,AL05301,Marion,Municipal Police,Perry,Alabama,1980,July,1,Murder or Manslaughter,Yes,Male,38,Black,Not Hispanic,Male,21,Black,Not Hispanic,Acquaintance,Knife,0,0,FBI
+501,AL05301,Marion,Municipal Police,Perry,Alabama,1980,August,1,Murder or Manslaughter,Yes,Male,35,Black,Not Hispanic,Male,37,Black,Not Hispanic,Family,Handgun,0,0,FBI
+502,AL05400,Pickens,Sheriff,Pickens,Alabama,1980,October,1,Murder or Manslaughter,Yes,Male,49,White,Unknown,Male,22,Black,Unknown,Acquaintance,Knife,0,0,FBI
+503,AL05501,Troy,Municipal Police,Pike,Alabama,1980,March,1,Murder or Manslaughter,Yes,Female,25,Black,Not Hispanic,Female,30,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+504,AL05501,Troy,Municipal Police,Pike,Alabama,1980,June,1,Murder or Manslaughter,Yes,Male,38,Black,Unknown,Female,21,Black,Unknown,Husband,Knife,0,0,FBI
+505,AL05501,Troy,Municipal Police,Pike,Alabama,1980,July,1,Murder or Manslaughter,Yes,Male,24,Black,Unknown,Female,26,Black,Unknown,Husband,Handgun,0,0,FBI
+506,AL05700,Russell,Sheriff,Russell,Alabama,1980,January,1,Murder or Manslaughter,Yes,Male,48,Black,Unknown,Male,23,Black,Unknown,Acquaintance,Handgun,0,0,FBI
+507,AL05700,Russell,Sheriff,Russell,Alabama,1980,January,2,Murder or Manslaughter,Yes,Male,33,White,Unknown,Male,22,White,Unknown,Family,Handgun,0,0,FBI
+508,AL05700,Russell,Sheriff,Russell,Alabama,1980,November,1,Murder or Manslaughter,Yes,Male,30,Black,Not Hispanic,Male,19,Black,Not Hispanic,Acquaintance,Shotgun,0,0,FBI
+509,AL05701,Phenix City,Municipal Police,Russell,Alabama,1980,March,2,Murder or Manslaughter,Yes,Female,6,Black,Unknown,Male,32,Black,Unknown,Son,Handgun,1,0,FBI
+510,AL05701,Phenix City,Municipal Police,Russell,Alabama,1980,March,1,Murder or Manslaughter,Yes,Male,5,Black,Unknown,Male,35,Black,Unknown,Family,Blunt Object,0,0,FBI
+511,AL05701,Phenix City,Municipal Police,Russell,Alabama,1980,March,2,Murder or Manslaughter,Yes,Male,4,Black,Unknown,Male,32,Black,Unknown,Son,Handgun,1,0,FBI
+512,AL05701,Phenix City,Municipal Police,Russell,Alabama,1980,March,3,Murder or Manslaughter,Yes,Female,68,Black,Unknown,Male,89,Black,Unknown,Wife,Handgun,0,0,FBI
+513,AL05701,Phenix City,Municipal Police,Russell,Alabama,1980,July,1,Murder or Manslaughter,Yes,Male,25,Black,Not Hispanic,Male,21,Black,Not Hispanic,Friend,Handgun,0,0,FBI
+514,AL05701,Phenix City,Municipal Police,Russell,Alabama,1980,November,1,Murder or Manslaughter,Yes,Male,59,White,Unknown,Female,62,White,Unknown,Husband,Handgun,0,0,FBI
+515,AL05800,St. Clair,Sheriff,St. Clair,Alabama,1980,February,1,Murder or Manslaughter,Yes,Male,52,White,Not Hispanic,Male,15,Native American/Alaska Native,Not Hispanic,Stranger,Handgun,0,0,FBI
+516,AL05800,St. Clair,Sheriff,St. Clair,Alabama,1980,April,1,Murder or Manslaughter,Yes,Male,53,Black,Not Hispanic,Male,64,Black,Not Hispanic,Family,Shotgun,0,0,FBI
+517,AL05800,St. Clair,Sheriff,St. Clair,Alabama,1980,August,1,Murder or Manslaughter,Yes,Female,65,White,Not Hispanic,Male,20,White,Not Hispanic,Stranger,Shotgun,0,0,FBI
+518,AL05804,Springville,Municipal Police,St. Clair,Alabama,1980,October,1,Murder or Manslaughter,Yes,Female,23,Black,Not Hispanic,Male,35,Black,Not Hispanic,Girlfriend,Rifle,0,0,FBI
+519,AL05900,Shelby,Sheriff,Shelby,Alabama,1980,October,1,Murder or Manslaughter,Yes,Male,27,Black,Unknown,Male,31,Black,Unknown,Friend,Shotgun,0,0,FBI
+520,AL05900,Shelby,Sheriff,Shelby,Alabama,1980,December,1,Murder or Manslaughter,Yes,Male,56,White,Not Hispanic,Male,51,White,Not Hispanic,Stranger,Shotgun,0,0,FBI
+521,AL05903,Montevallo,Municipal Police,Shelby,Alabama,1980,December,1,Murder or Manslaughter,Yes,Female,82,White,Unknown,Male,18,Black,Unknown,Acquaintance,Suffocation,0,1,FBI
+522,AL05904,Alabaster,Municipal Police,Shelby,Alabama,1980,September,1,Murder or Manslaughter,Yes,Female,26,Black,Not Hispanic,Male,32,Black,Not Hispanic,Girlfriend,Shotgun,0,0,FBI
+523,AL06000,Sumter,Sheriff,Sumter,Alabama,1980,October,1,Murder or Manslaughter,Yes,Male,28,Black,Unknown,Male,34,Black,Unknown,Acquaintance,Handgun,0,0,FBI
+524,AL06000,Sumter,Sheriff,Sumter,Alabama,1980,November,1,Murder or Manslaughter,Yes,Male,28,Black,Not Hispanic,Male,34,Black,Not Hispanic,Neighbor,Handgun,0,0,FBI
+525,AL06002,Livingston,Municipal Police,Sumter,Alabama,1980,December,1,Murder or Manslaughter,Yes,Male,43,Black,Unknown,Male,37,Black,Unknown,Acquaintance,Knife,0,0,FBI
+526,AL06002,Livingston,Municipal Police,Sumter,Alabama,1980,December,2,Murder or Manslaughter,Yes,Male,26,Black,Unknown,Female,24,Black,Unknown,Neighbor,Rifle,0,0,FBI
+527,AL06100,Talladega,Sheriff,Talladega,Alabama,1980,March,1,Murder or Manslaughter,Yes,Male,20,Black,Not Hispanic,Male,36,Black,Not Hispanic,Stepson,Handgun,0,0,FBI
+528,AL06100,Talladega,Sheriff,Talladega,Alabama,1980,June,1,Murder or Manslaughter,Yes,Female,40,White,Unknown,Male,19,White,Unknown,Stepmother,Handgun,0,0,FBI
+529,AL06102,Talladega,Municipal Police,Talladega,Alabama,1980,May,1,Murder or Manslaughter,Yes,Female,55,White,Not Hispanic,Female,16,White,Not Hispanic,Mother,Knife,0,0,FBI
+530,AL06102,Talladega,Municipal Police,Talladega,Alabama,1980,December,1,Murder or Manslaughter,Yes,Male,59,Black,Not Hispanic,Male,60,Black,Not Hispanic,Friend,Shotgun,0,0,FBI
+531,AL06200,Tallapoosa,Sheriff,Tallapoosa,Alabama,1980,March,1,Murder or Manslaughter,Yes,Male,22,Black,Not Hispanic,Male,27,Black,Not Hispanic,Acquaintance,Shotgun,0,0,FBI
+532,AL06200,Tallapoosa,Sheriff,Tallapoosa,Alabama,1980,April,1,Manslaughter by Negligence,Yes,Female,13,White,Not Hispanic,Male,13,White,Not Hispanic,Acquaintance,Shotgun,0,0,FBI
+533,AL06200,Tallapoosa,Sheriff,Tallapoosa,Alabama,1980,June,1,Murder or Manslaughter,Yes,Female,20,Black,Not Hispanic,Male,40,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+534,AL06200,Tallapoosa,Sheriff,Tallapoosa,Alabama,1980,September,1,Murder or Manslaughter,Yes,Male,33,Black,Not Hispanic,Female,31,Black,Not Hispanic,Husband,Knife,0,0,FBI
+535,AL06200,Tallapoosa,Sheriff,Tallapoosa,Alabama,1980,October,1,Murder or Manslaughter,Yes,Male,38,Black,Not Hispanic,Male,42,Black,Not Hispanic,Acquaintance,Rifle,0,0,FBI
+536,AL06200,Tallapoosa,Sheriff,Tallapoosa,Alabama,1980,December,1,Murder or Manslaughter,Yes,Male,62,White,Not Hispanic,Male,42,White,Not Hispanic,Family,Handgun,0,0,FBI
+537,AL06201,Alexander City,Municipal Police,Tallapoosa,Alabama,1980,March,1,Murder or Manslaughter,Yes,Male,28,Black,Not Hispanic,Male,26,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+538,AL06300,Tuscaloosa,Sheriff,Tuscaloosa,Alabama,1980,July,1,Murder or Manslaughter,Yes,Male,24,White,Unknown,Male,44,White,Unknown,In-Law,Shotgun,0,0,FBI
+539,AL06300,Tuscaloosa,Sheriff,Tuscaloosa,Alabama,1980,December,1,Murder or Manslaughter,Yes,Female,22,White,Unknown,Male,27,White,Unknown,Wife,Handgun,0,0,FBI
+540,AL06301,Tuscaloosa,Municipal Police,Tuscaloosa,Alabama,1980,January,1,Murder or Manslaughter,No,Male,55,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Firearm,0,1,FBI
+541,AL06301,Tuscaloosa,Municipal Police,Tuscaloosa,Alabama,1980,January,2,Murder or Manslaughter,Yes,Male,50,Black,Unknown,Female,40,Black,Unknown,Stranger,Handgun,0,0,FBI
+542,AL06301,Tuscaloosa,Municipal Police,Tuscaloosa,Alabama,1980,April,1,Murder or Manslaughter,Yes,Male,29,White,Not Hispanic,Male,27,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+543,AL06301,Tuscaloosa,Municipal Police,Tuscaloosa,Alabama,1980,May,1,Murder or Manslaughter,Yes,Male,35,Black,Not Hispanic,Male,31,Black,Not Hispanic,Stranger,Knife,0,0,FBI
+544,AL06301,Tuscaloosa,Municipal Police,Tuscaloosa,Alabama,1980,May,2,Murder or Manslaughter,Yes,Male,40,Black,Not Hispanic,Male,51,Black,Not Hispanic,Acquaintance,Shotgun,0,0,FBI
+545,AL06301,Tuscaloosa,Municipal Police,Tuscaloosa,Alabama,1980,July,1,Murder or Manslaughter,Yes,Male,53,White,Not Hispanic,Female,37,Black,Unknown,Acquaintance,Knife,0,0,FBI
+546,AL06301,Tuscaloosa,Municipal Police,Tuscaloosa,Alabama,1980,August,1,Murder or Manslaughter,Yes,Male,38,White,Not Hispanic,Male,52,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+547,AL06301,Tuscaloosa,Municipal Police,Tuscaloosa,Alabama,1980,August,2,Murder or Manslaughter,Yes,Female,25,Black,Not Hispanic,Male,28,Black,Not Hispanic,Common-Law Wife,Handgun,0,0,FBI
+548,AL06301,Tuscaloosa,Municipal Police,Tuscaloosa,Alabama,1980,August,3,Murder or Manslaughter,Yes,Male,82,Black,Not Hispanic,Male,75,Black,Not Hispanic,Brother,Knife,0,0,FBI
+549,AL06301,Tuscaloosa,Municipal Police,Tuscaloosa,Alabama,1980,December,1,Murder or Manslaughter,Yes,Female,50,White,Not Hispanic,Male,39,Black,Not Hispanic,Acquaintance,Unknown,0,0,FBI
+550,AL06302,Northport,Municipal Police,Tuscaloosa,Alabama,1980,May,1,Murder or Manslaughter,Yes,Female,42,Black,Not Hispanic,Female,35,Black,Not Hispanic,Acquaintance,Knife,0,0,FBI
+551,AL06401,Jasper,Municipal Police,Walker,Alabama,1980,January,1,Murder or Manslaughter,No,Female,28,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Explosives,0,0,FBI
+552,AL06401,Jasper,Municipal Police,Walker,Alabama,1980,February,1,Murder or Manslaughter,No,Female,18,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+553,AL06401,Jasper,Municipal Police,Walker,Alabama,1980,August,1,Murder or Manslaughter,Yes,Male,38,White,Not Hispanic,Male,25,White,Not Hispanic,Friend,Blunt Object,0,1,FBI
+554,AL06500,Washington,Sheriff,Washington,Alabama,1980,January,1,Murder or Manslaughter,Yes,Male,41,White,Unknown,Female,39,White,Unknown,Husband,Handgun,0,0,FBI
+555,AL06500,Washington,Sheriff,Washington,Alabama,1980,March,1,Murder or Manslaughter,Yes,Female,50,White,Unknown,Male,44,White,Unknown,Wife,Handgun,0,0,FBI
+556,AL06500,Washington,Sheriff,Washington,Alabama,1980,September,1,Murder or Manslaughter,Yes,Male,38,White,Not Hispanic,Male,46,White,Not Hispanic,Family,Handgun,0,0,FBI
+557,AL06503,Chatom,Municipal Police,Washington,Alabama,1980,October,1,Murder or Manslaughter,Yes,Female,27,White,Not Hispanic,Male,34,White,Not Hispanic,Wife,Handgun,0,0,FBI
+558,AL06600,Wilcox,Sheriff,Wilcox,Alabama,1980,August,1,Murder or Manslaughter,Yes,Male,31,Black,Not Hispanic,Male,30,Black,Unknown,Stranger,Shotgun,0,0,FBI
+559,AL06600,Wilcox,Sheriff,Wilcox,Alabama,1980,December,1,Murder or Manslaughter,Yes,Female,65,White,Not Hispanic,Male,26,Black,Not Hispanic,Stranger,Handgun,0,0,FBI
+560,AL06702,Haleyville,Municipal Police,Winston,Alabama,1980,May,1,Murder or Manslaughter,Yes,Male,63,White,Not Hispanic,Male,51,White,Not Hispanic,Acquaintance,Handgun,0,1,FBI
+561,AR00100,Arkansas,Sheriff,Arkansas,Arkansas,1980,September,1,Murder or Manslaughter,No,Female,20,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+562,AR00200,Ashley,Sheriff,Ashley,Arkansas,1980,June,1,Murder or Manslaughter,Yes,Female,55,White,Not Hispanic,Male,25,White,Not Hispanic,Neighbor,Blunt Object,0,0,FBI
+563,AR00200,Ashley,Sheriff,Ashley,Arkansas,1980,November,1,Manslaughter by Negligence,Yes,Male,42,White,Unknown,Male,46,White,Unknown,Stranger,Shotgun,0,0,FBI
+564,AR00400,Benton,Sheriff,Benton,Arkansas,1980,January,1,Murder or Manslaughter,Yes,Male,75,White,Not Hispanic,Male,13,White,Not Hispanic,Acquaintance,Rifle,0,1,FBI
+565,AR00401,Bentonville,Municipal Police,Benton,Arkansas,1980,August,1,Murder or Manslaughter,Yes,Male,36,White,Unknown,Male,26,White,Unknown,Unknown,Handgun,0,0,FBI
+566,AR00500,Boone,Sheriff,Boone,Arkansas,1980,October,1,Murder or Manslaughter,No,Female,24,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Strangulation,0,1,FBI
+567,AR00501,Harrison,Municipal Police,Boone,Arkansas,1980,April,1,Murder or Manslaughter,Yes,Female,0,White,Unknown,Female,32,White,Unknown,Daughter,Blunt Object,0,0,FBI
+568,AR00600,Bradley,Sheriff,Bradley,Arkansas,1980,February,1,Murder or Manslaughter,Yes,Male,42,Black,Hispanic,Male,47,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+569,AR00600,Bradley,Sheriff,Bradley,Arkansas,1980,July,1,Murder or Manslaughter,Yes,Male,17,Black,Not Hispanic,Male,67,White,Not Hispanic,Neighbor,Rifle,0,0,FBI
+570,AR00600,Bradley,Sheriff,Bradley,Arkansas,1980,July,2,Murder or Manslaughter,Yes,Male,67,White,Not Hispanic,Male,17,Black,Not Hispanic,Neighbor,Handgun,0,0,FBI
+571,AR00701,Hampton,Municipal Police,Calhoun,Arkansas,1980,March,1,Murder or Manslaughter,Yes,Male,16,Black,Hispanic,Male,30,Black,Hispanic,Neighbor,Shotgun,0,0,FBI
+572,AR00900,Chicot,Sheriff,Chicot,Arkansas,1980,March,1,Murder or Manslaughter,Yes,Male,33,Black,Not Hispanic,Male,35,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+573,AR00900,Chicot,Sheriff,Chicot,Arkansas,1980,September,1,Murder or Manslaughter,Yes,Male,19,Black,Not Hispanic,Male,32,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+574,AR01000,Clark,Sheriff,Clark,Arkansas,1980,September,1,Murder or Manslaughter,No,Female,20,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,1,FBI
+575,AR01002,Gurdon,Municipal Police,Clark,Arkansas,1980,July,1,Murder or Manslaughter,Yes,Male,30,Black,Unknown,Female,27,Black,Unknown,Boyfriend,Handgun,0,0,FBI
+576,AR01100,Clay,Sheriff,Clay,Arkansas,1980,June,1,Murder or Manslaughter,Yes,Male,59,White,Not Hispanic,Male,22,White,Not Hispanic,Family,Handgun,2,0,FBI
+577,AR01100,Clay,Sheriff,Clay,Arkansas,1980,June,1,Murder or Manslaughter,Yes,Female,47,White,Not Hispanic,Male,22,White,Not Hispanic,Family,Handgun,2,0,FBI
+578,AR01100,Clay,Sheriff,Clay,Arkansas,1980,June,1,Murder or Manslaughter,Yes,Female,7,White,Not Hispanic,Male,22,White,Not Hispanic,Family,Handgun,2,0,FBI
+579,AR01400,Columbia,Sheriff,Columbia,Arkansas,1980,February,1,Murder or Manslaughter,Yes,Female,20,Black,Not Hispanic,Male,22,Black,Not Hispanic,Girlfriend,Blunt Object,0,0,FBI
+580,AR01400,Columbia,Sheriff,Columbia,Arkansas,1980,March,1,Murder or Manslaughter,Yes,Female,15,Black,Unknown,Male,19,Black,Hispanic,Family,Blunt Object,0,0,FBI
+581,AR01400,Columbia,Sheriff,Columbia,Arkansas,1980,March,2,Murder or Manslaughter,Yes,Male,56,Black,Unknown,Male,48,Black,Hispanic,Friend,Firearm,0,0,FBI
+582,AR01400,Columbia,Sheriff,Columbia,Arkansas,1980,June,1,Murder or Manslaughter,Yes,Female,17,Black,Not Hispanic,Female,28,Black,Not Hispanic,Friend,Handgun,0,0,FBI
+583,AR01400,Columbia,Sheriff,Columbia,Arkansas,1980,July,1,Murder or Manslaughter,Yes,Male,36,White,Unknown,Female,36,White,Unknown,Husband,Rifle,0,0,FBI
+584,AR01500,Conway,Sheriff,Conway,Arkansas,1980,April,1,Murder or Manslaughter,Yes,Male,43,White,Not Hispanic,Male,30,White,Not Hispanic,Friend,Shotgun,0,0,FBI
+585,AR01501,Morrilton,Municipal Police,Conway,Arkansas,1980,December,1,Murder or Manslaughter,Yes,Male,30,Black,Not Hispanic,Male,24,Black,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+586,AR01600,Craighead,Sheriff,Craighead,Arkansas,1980,January,1,Murder or Manslaughter,Yes,Female,57,White,Unknown,Male,23,White,Unknown,Neighbor,Rifle,0,0,FBI
+587,AR01601,Jonesboro,Municipal Police,Craighead,Arkansas,1980,April,1,Murder or Manslaughter,Yes,Male,22,Black,Unknown,Male,26,Black,Unknown,Acquaintance,Handgun,0,0,FBI
+588,AR01701,Van Buren,Municipal Police,Crawford,Arkansas,1980,September,1,Murder or Manslaughter,Yes,Male,50,White,Not Hispanic,Male,36,White,Not Hispanic,Stranger,Handgun,1,1,FBI
+589,AR01701,Van Buren,Municipal Police,Crawford,Arkansas,1980,July,1,Murder or Manslaughter,No,Male,21,White,Unknown,Unknown,0,Unknown,Unknown,Stranger,Knife,0,1,FBI
+590,AR01701,Van Buren,Municipal Police,Crawford,Arkansas,1980,September,1,Murder or Manslaughter,Yes,Female,24,White,Not Hispanic,Male,36,White,Not Hispanic,Stranger,Handgun,1,1,FBI
+591,AR01800,Crittenden,Sheriff,Crittenden,Arkansas,1980,June,1,Murder or Manslaughter,Yes,Male,31,Black,Unknown,Male,27,Black,Unknown,Acquaintance,Knife,0,0,FBI
+592,AR01800,Crittenden,Sheriff,Crittenden,Arkansas,1980,August,1,Murder or Manslaughter,Yes,Male,44,White,Not Hispanic,Male,24,White,Not Hispanic,Stranger,Handgun,0,2,FBI
+593,AR01800,Crittenden,Sheriff,Crittenden,Arkansas,1980,September,1,Murder or Manslaughter,Yes,Male,43,White,Not Hispanic,Male,21,Black,Not Hispanic,Stranger,Handgun,0,0,FBI
+594,AR01800,Crittenden,Sheriff,Crittenden,Arkansas,1980,September,2,Murder or Manslaughter,Yes,Male,35,Black,Not Hispanic,Male,58,Black,Not Hispanic,Acquaintance,Shotgun,0,0,FBI
+595,AR01801,West Memphis,Municipal Police,Crittenden,Arkansas,1980,February,1,Murder or Manslaughter,Yes,Male,29,Black,Unknown,Male,47,Black,Unknown,Acquaintance,Handgun,0,0,FBI
+596,AR01801,West Memphis,Municipal Police,Crittenden,Arkansas,1980,July,1,Murder or Manslaughter,Yes,Male,32,Black,Unknown,Female,21,Black,Unknown,Acquaintance,Knife,0,0,FBI
+597,AR01801,West Memphis,Municipal Police,Crittenden,Arkansas,1980,September,1,Murder or Manslaughter,Yes,Male,20,Black,Not Hispanic,Male,14,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+598,AR01801,West Memphis,Municipal Police,Crittenden,Arkansas,1980,October,1,Murder or Manslaughter,Yes,Male,26,Black,Not Hispanic,Female,17,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+599,AR01801,West Memphis,Municipal Police,Crittenden,Arkansas,1980,November,1,Murder or Manslaughter,Yes,Male,72,Black,Not Hispanic,Male,58,Black,Not Hispanic,Acquaintance,Knife,0,0,FBI
+600,AR01801,West Memphis,Municipal Police,Crittenden,Arkansas,1980,December,1,Murder or Manslaughter,Yes,Female,23,Black,Not Hispanic,Male,63,Black,Not Hispanic,Daughter,Handgun,0,0,FBI
+601,AR02201,Monticello,Municipal Police,Drew,Arkansas,1980,August,1,Murder or Manslaughter,Yes,Male,33,White,Not Hispanic,Male,34,White,Not Hispanic,Neighbor,Knife,0,0,FBI
+602,AR02300,Faulkner,Sheriff,Faulkner,Arkansas,1980,June,1,Manslaughter by Negligence,Yes,Male,23,Black,Not Hispanic,Male,22,Black,Not Hispanic,Friend,Handgun,0,0,FBI
+603,AR02300,Faulkner,Sheriff,Faulkner,Arkansas,1980,December,1,Murder or Manslaughter,Yes,Female,32,Black,Not Hispanic,Male,28,Black,Not Hispanic,Neighbor,Unknown,0,0,FBI
+604,AR02400,Franklin,Sheriff,Franklin,Arkansas,1980,January,1,Murder or Manslaughter,Yes,Male,25,White,Not Hispanic,Male,43,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+605,AR02500,Fulton,Sheriff,Fulton,Arkansas,1980,September,1,Murder or Manslaughter,No,Female,0,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,1,FBI
+606,AR02600,Garland,Sheriff,Garland,Arkansas,1980,April,1,Murder or Manslaughter,Yes,Male,26,White,Not Hispanic,Male,29,White,Not Hispanic,Family,Rifle,0,0,FBI
+607,AR02600,Garland,Sheriff,Garland,Arkansas,1980,October,1,Murder or Manslaughter,Yes,Male,33,White,Not Hispanic,Male,33,White,Not Hispanic,Acquaintance,Shotgun,0,0,FBI
+608,AR02601,Hot Springs,Municipal Police,Garland,Arkansas,1980,June,1,Murder or Manslaughter,Yes,Male,23,Black,Not Hispanic,Female,31,Black,Not Hispanic,Acquaintance,Rifle,0,0,FBI
+609,AR02700,Grant,Sheriff,Grant,Arkansas,1980,January,1,Murder or Manslaughter,No,Female,34,White,Unknown,Unknown,0,Unknown,Unknown,Stranger,Shotgun,0,1,FBI
+610,AR02700,Grant,Sheriff,Grant,Arkansas,1980,November,1,Murder or Manslaughter,Yes,Male,32,White,Not Hispanic,Male,23,White,Not Hispanic,Acquaintance,Rifle,0,0,FBI
+611,AR02800,Greene,Sheriff,Greene,Arkansas,1980,September,1,Murder or Manslaughter,Yes,Male,59,White,Not Hispanic,Male,48,White,Hispanic,Acquaintance,Blunt Object,0,0,FBI
+612,AR02801,Paragould,Municipal Police,Greene,Arkansas,1980,March,1,Murder or Manslaughter,Yes,Male,27,White,Unknown,Male,21,White,Unknown,Acquaintance,Shotgun,0,0,FBI
+613,AR02901,Hope,Municipal Police,Hempstead,Arkansas,1980,January,1,Murder or Manslaughter,Yes,Male,25,Black,Not Hispanic,Female,30,Black,Not Hispanic,Husband,Handgun,0,0,FBI
+614,AR03001,Malvern,Municipal Police,Hot Spring,Arkansas,1980,September,1,Murder or Manslaughter,Yes,Female,23,Black,Not Hispanic,Male,14,Black,Not Hispanic,Family,Rifle,1,0,FBI
+615,AR03001,Malvern,Municipal Police,Hot Spring,Arkansas,1980,May,1,Murder or Manslaughter,Yes,Male,38,Black,Not Hispanic,Female,27,Black,Not Hispanic,Boyfriend,Handgun,0,0,FBI
+616,AR03001,Malvern,Municipal Police,Hot Spring,Arkansas,1980,September,1,Murder or Manslaughter,Yes,Female,22,Black,Not Hispanic,Male,14,Black,Not Hispanic,Family,Rifle,1,0,FBI
+617,AR03001,Malvern,Municipal Police,Hot Spring,Arkansas,1980,October,1,Murder or Manslaughter,Yes,Male,23,Black,Not Hispanic,Female,25,Black,Not Hispanic,Brother,Shotgun,0,0,FBI
+618,AR03001,Malvern,Municipal Police,Hot Spring,Arkansas,1980,November,1,Murder or Manslaughter,Yes,Male,44,Black,Not Hispanic,Female,23,Black,Not Hispanic,Boyfriend,Knife,0,0,FBI
+619,AR03400,Jackson,Sheriff,Jackson,Arkansas,1980,October,1,Murder or Manslaughter,Yes,Male,55,White,Not Hispanic,Male,65,White,Not Hispanic,Acquaintance,Rifle,0,0,FBI
+620,AR03500,Jefferson,Sheriff,Jefferson,Arkansas,1980,January,1,Murder or Manslaughter,Yes,Male,30,Black,Not Hispanic,Male,32,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+621,AR03500,Jefferson,Sheriff,Jefferson,Arkansas,1980,March,1,Murder or Manslaughter,Yes,Male,38,White,Unknown,Male,23,White,Unknown,Acquaintance,Rifle,0,0,FBI
+622,AR03500,Jefferson,Sheriff,Jefferson,Arkansas,1980,July,1,Murder or Manslaughter,Yes,Male,57,Black,Not Hispanic,Male,30,Black,Not Hispanic,Acquaintance,Shotgun,0,0,FBI
+623,AR03500,Jefferson,Sheriff,Jefferson,Arkansas,1980,September,1,Murder or Manslaughter,Yes,Female,32,White,Not Hispanic,Male,36,White,Not Hispanic,Ex-Wife,Shotgun,0,0,FBI
+624,AR03500,Jefferson,Sheriff,Jefferson,Arkansas,1980,October,1,Murder or Manslaughter,Yes,Female,32,Black,Not Hispanic,Male,45,Black,Not Hispanic,Common-Law Wife,Handgun,0,0,FBI
+625,AR03500,Jefferson,Sheriff,Jefferson,Arkansas,1980,November,1,Manslaughter by Negligence,Yes,Female,34,White,Unknown,Male,35,White,Unknown,Stranger,Rifle,0,0,FBI
+626,AR03501,Pine Bluff,Municipal Police,Jefferson,Arkansas,1980,January,1,Murder or Manslaughter,No,Male,54,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Knife,0,1,FBI
+627,AR03501,Pine Bluff,Municipal Police,Jefferson,Arkansas,1980,January,2,Murder or Manslaughter,Yes,Male,50,Black,Unknown,Male,67,Black,Unknown,Acquaintance,Handgun,0,0,FBI
+628,AR03501,Pine Bluff,Municipal Police,Jefferson,Arkansas,1980,January,3,Murder or Manslaughter,No,Female,43,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+629,AR03501,Pine Bluff,Municipal Police,Jefferson,Arkansas,1980,January,4,Murder or Manslaughter,Yes,Male,47,Black,Unknown,Male,73,Black,Unknown,Acquaintance,Handgun,0,0,FBI
+630,AR03501,Pine Bluff,Municipal Police,Jefferson,Arkansas,1980,February,1,Murder or Manslaughter,Yes,Male,39,Black,Not Hispanic,Male,60,Black,Not Hispanic,Acquaintance,Shotgun,0,0,FBI
+631,AR03501,Pine Bluff,Municipal Police,Jefferson,Arkansas,1980,June,1,Murder or Manslaughter,Yes,Male,22,Black,Not Hispanic,Female,76,Black,Not Hispanic,Stranger,Handgun,0,0,FBI
+632,AR03501,Pine Bluff,Municipal Police,Jefferson,Arkansas,1980,August,1,Murder or Manslaughter,Yes,Female,43,Black,Not Hispanic,Male,44,Black,Not Hispanic,Wife,Handgun,0,0,FBI
+633,AR03501,Pine Bluff,Municipal Police,Jefferson,Arkansas,1980,October,1,Murder or Manslaughter,Yes,Male,27,Black,Not Hispanic,Female,31,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+634,AR03700,Lafayette,Sheriff,Lafayette,Arkansas,1980,January,1,Murder or Manslaughter,Yes,Male,19,White,Not Hispanic,Male,16,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+635,AR03700,Lafayette,Sheriff,Lafayette,Arkansas,1980,April,1,Murder or Manslaughter,Yes,Female,24,Black,Not Hispanic,Female,28,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+636,AR04000,Lincoln,Sheriff,Lincoln,Arkansas,1980,October,1,Murder or Manslaughter,Yes,Female,43,Black,Not Hispanic,Male,35,Black,Not Hispanic,Friend,Handgun,0,0,FBI
+637,AR04100,Little River,Sheriff,Little River,Arkansas,1980,February,1,Murder or Manslaughter,Yes,Female,38,White,Not Hispanic,Male,17,White,Not Hispanic,Mother,Knife,0,0,FBI
+638,AR04100,Little River,Sheriff,Little River,Arkansas,1980,December,1,Murder or Manslaughter,Yes,Male,36,Black,Not Hispanic,Male,27,Black,Not Hispanic,Acquaintance,Shotgun,0,0,FBI
+639,AR04300,Lonoke,Sheriff,Lonoke,Arkansas,1980,April,1,Murder or Manslaughter,Yes,Male,28,Black,Unknown,Female,25,Black,Unknown,Acquaintance,Handgun,0,0,FBI
+640,AR04300,Lonoke,Sheriff,Lonoke,Arkansas,1980,April,2,Murder or Manslaughter,No,Male,43,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Shotgun,0,1,FBI
+641,AR04300,Lonoke,Sheriff,Lonoke,Arkansas,1980,April,3,Murder or Manslaughter,Yes,Male,22,Black,Unknown,Male,48,Black,Unknown,Acquaintance,Handgun,0,0,FBI
+642,AR04300,Lonoke,Sheriff,Lonoke,Arkansas,1980,April,4,Murder or Manslaughter,Yes,Female,38,White,Unknown,Male,47,White,Unknown,Wife,Handgun,0,0,FBI
+643,AR04300,Lonoke,Sheriff,Lonoke,Arkansas,1980,September,1,Murder or Manslaughter,Yes,Male,39,White,Not Hispanic,Male,32,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+644,AR04500,Marion,Sheriff,Marion,Arkansas,1980,February,1,Murder or Manslaughter,Yes,Male,69,White,Unknown,Male,34,White,Unknown,Friend,Shotgun,0,0,FBI
+645,AR04601,Texarkana,Municipal Police,Miller,Arkansas,1980,June,1,Murder or Manslaughter,Yes,Male,20,Black,Unknown,Male,19,Black,Unknown,Brother,Knife,0,0,FBI
+646,AR04601,Texarkana,Municipal Police,Miller,Arkansas,1980,October,1,Murder or Manslaughter,Yes,Male,41,Black,Not Hispanic,Female,26,Black,Not Hispanic,Husband,Blunt Object,0,0,FBI
+647,AR04700,Mississippi,Sheriff,Mississippi,Arkansas,1980,March,1,Murder or Manslaughter,Yes,Female,50,White,Unknown,Male,61,White,Unknown,Wife,Handgun,0,0,FBI
+648,AR04700,Mississippi,Sheriff,Mississippi,Arkansas,1980,March,2,Murder or Manslaughter,Yes,Female,50,White,Unknown,Male,0,Black,Unknown,Stranger,Handgun,0,1,FBI
+649,AR04700,Mississippi,Sheriff,Mississippi,Arkansas,1980,June,1,Murder or Manslaughter,Yes,Female,21,Black,Not Hispanic,Male,26,Black,Not Hispanic,Wife,Knife,0,0,FBI
+650,AR04700,Mississippi,Sheriff,Mississippi,Arkansas,1980,December,1,Murder or Manslaughter,No,Female,30,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Shotgun,0,0,FBI
+651,AR04700,Mississippi,Sheriff,Mississippi,Arkansas,1980,December,2,Murder or Manslaughter,Yes,Female,28,White,Unknown,Male,20,White,Unknown,Acquaintance,Knife,0,0,FBI
+652,AR04701,Blytheville,Municipal Police,Mississippi,Arkansas,1980,March,1,Murder or Manslaughter,Yes,Male,38,White,Unknown,Male,15,White,Unknown,Father,Shotgun,0,0,FBI
+653,AR04701,Blytheville,Municipal Police,Mississippi,Arkansas,1980,March,2,Manslaughter by Negligence,Yes,Male,38,White,Unknown,Male,15,White,Unknown,Father,Shotgun,0,0,FBI
+654,AR04701,Blytheville,Municipal Police,Mississippi,Arkansas,1980,July,1,Murder or Manslaughter,Yes,Male,47,Black,Unknown,Male,37,Black,Unknown,Family,Handgun,0,0,FBI
+655,AR04701,Blytheville,Municipal Police,Mississippi,Arkansas,1980,July,2,Murder or Manslaughter,Yes,Male,52,Black,Unknown,Female,26,Black,Unknown,Husband,Handgun,0,0,FBI
+656,AR04701,Blytheville,Municipal Police,Mississippi,Arkansas,1980,July,3,Murder or Manslaughter,Yes,Male,30,Black,Unknown,Female,23,Black,Unknown,Unknown,Handgun,0,0,FBI
+657,AR04701,Blytheville,Municipal Police,Mississippi,Arkansas,1980,October,1,Murder or Manslaughter,Yes,Male,38,Black,Unknown,Male,55,Black,Unknown,Acquaintance,Knife,0,0,FBI
+658,AR04701,Blytheville,Municipal Police,Mississippi,Arkansas,1980,November,1,Manslaughter by Negligence,Yes,Male,22,Black,Not Hispanic,Female,47,Black,Not Hispanic,Son,Handgun,0,0,FBI
+659,AR04701,Blytheville,Municipal Police,Mississippi,Arkansas,1980,December,1,Murder or Manslaughter,Yes,Male,52,Black,Not Hispanic,Male,68,Black,Not Hispanic,Acquaintance,Shotgun,0,0,FBI
+660,AR04900,Montgomery,Sheriff,Montgomery,Arkansas,1980,February,1,Murder or Manslaughter,Yes,Male,37,White,Unknown,Male,39,White,Unknown,Stranger,Handgun,0,0,FBI
+661,AR05100,Newton,Sheriff,Newton,Arkansas,1980,March,1,Murder or Manslaughter,Yes,Male,27,White,Not Hispanic,Male,16,White,Not Hispanic,Stranger,Handgun,0,2,FBI
+662,AR05200,Ouachita,Sheriff,Ouachita,Arkansas,1980,March,1,Murder or Manslaughter,Yes,Female,1,White,Not Hispanic,Male,22,White,Not Hispanic,Daughter,Blunt Object,0,0,FBI
+663,AR05200,Ouachita,Sheriff,Ouachita,Arkansas,1980,July,1,Murder or Manslaughter,Yes,Female,40,White,Not Hispanic,Male,30,White,Not Hispanic,Wife,Shotgun,0,0,FBI
+664,AR05400,Phillips,Sheriff,Phillips,Arkansas,1980,April,1,Murder or Manslaughter,Yes,Male,42,White,Not Hispanic,Male,31,White,Not Hispanic,Friend,Rifle,0,0,FBI
+665,AR05400,Phillips,Sheriff,Phillips,Arkansas,1980,May,1,Murder or Manslaughter,Yes,Male,40,White,Unknown,Male,35,White,Unknown,Friend,Rifle,0,0,FBI
+666,AR05401,Helena,Municipal Police,Phillips,Arkansas,1980,April,1,Murder or Manslaughter,Yes,Male,43,White,Unknown,Female,15,White,Unknown,Father,Shotgun,0,1,FBI
+667,AR05401,Helena,Municipal Police,Phillips,Arkansas,1980,October,1,Murder or Manslaughter,Yes,Male,38,Black,Not Hispanic,Male,0,Black,Unknown,Stranger,Shotgun,0,0,FBI
+668,AR05401,Helena,Municipal Police,Phillips,Arkansas,1980,December,1,Murder or Manslaughter,Yes,Male,65,Black,Not Hispanic,Male,67,Black,Not Hispanic,Acquaintance,Knife,0,0,FBI
+669,AR05402,West Helena,Municipal Police,Phillips,Arkansas,1980,August,1,Murder or Manslaughter,No,Female,71,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,1,FBI
+670,AR05402,West Helena,Municipal Police,Phillips,Arkansas,1980,November,1,Murder or Manslaughter,Yes,Female,38,White,Not Hispanic,Male,41,White,Not Hispanic,Wife,Shotgun,0,0,FBI
+671,AR05500,Pike,Sheriff,Pike,Arkansas,1980,June,1,Murder or Manslaughter,Yes,Male,35,White,Not Hispanic,Male,16,White,Not Hispanic,Father,Shotgun,0,0,FBI
+672,AR05500,Pike,Sheriff,Pike,Arkansas,1980,October,1,Murder or Manslaughter,Yes,Male,22,White,Not Hispanic,Male,32,White,Not Hispanic,Friend,Shotgun,0,0,FBI
+673,AR05600,Poinsett,Sheriff,Poinsett,Arkansas,1980,October,1,Murder or Manslaughter,Yes,Male,36,White,Not Hispanic,Male,48,White,Not Hispanic,Acquaintance,Handgun,1,0,FBI
+674,AR05600,Poinsett,Sheriff,Poinsett,Arkansas,1980,April,1,Murder or Manslaughter,Yes,Male,44,White,Unknown,Male,24,White,Unknown,Father,Knife,0,0,FBI
+675,AR05600,Poinsett,Sheriff,Poinsett,Arkansas,1980,October,1,Murder or Manslaughter,Yes,Male,34,White,Not Hispanic,Male,48,White,Not Hispanic,Acquaintance,Handgun,1,0,FBI
+676,AR05700,Polk,Sheriff,Polk,Arkansas,1980,September,1,Murder or Manslaughter,Yes,Female,0,White,Not Hispanic,Male,24,White,Not Hispanic,Daughter,Blunt Object,0,0,FBI
+677,AR05900,Prairie,Sheriff,Prairie,Arkansas,1980,August,1,Murder or Manslaughter,Yes,Male,46,White,Hispanic,Female,34,White,Hispanic,Husband,Rifle,0,0,FBI
+678,AR06000,Pulaski,Sheriff,Pulaski,Arkansas,1980,June,5,Murder or Manslaughter,No,Male,31,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Stranger,Shotgun,1,1,FBI
+679,AR06000,Pulaski,Sheriff,Pulaski,Arkansas,1980,August,2,Murder or Manslaughter,Yes,Male,59,Black,Not Hispanic,Male,41,Black,Not Hispanic,Acquaintance,Knife,1,0,FBI
+680,AR06000,Pulaski,Sheriff,Pulaski,Arkansas,1980,February,1,Murder or Manslaughter,Yes,Male,47,Black,Unknown,Female,45,Black,Unknown,Husband,Handgun,0,0,FBI
+681,AR06000,Pulaski,Sheriff,Pulaski,Arkansas,1980,February,2,Murder or Manslaughter,Yes,Male,23,White,Unknown,Male,35,White,Unknown,Stranger,Handgun,0,0,FBI
+682,AR06000,Pulaski,Sheriff,Pulaski,Arkansas,1980,June,1,Murder or Manslaughter,Yes,Male,36,White,Not Hispanic,Female,31,White,Not Hispanic,Husband,Rifle,0,0,FBI
+683,AR06000,Pulaski,Sheriff,Pulaski,Arkansas,1980,June,3,Murder or Manslaughter,Yes,Male,31,White,Not Hispanic,Male,29,Black,Not Hispanic,Stranger,Blunt Object,0,1,FBI
+684,AR06000,Pulaski,Sheriff,Pulaski,Arkansas,1980,June,4,Murder or Manslaughter,Yes,Male,25,White,Not Hispanic,Female,17,White,Not Hispanic,Husband,Rifle,0,0,FBI
+685,AR06000,Pulaski,Sheriff,Pulaski,Arkansas,1980,June,5,Murder or Manslaughter,No,Male,26,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Stranger,Shotgun,1,1,FBI
+686,AR06000,Pulaski,Sheriff,Pulaski,Arkansas,1980,June,6,Murder or Manslaughter,Yes,Female,17,Black,Not Hispanic,Male,21,Black,Not Hispanic,Girlfriend,Blunt Object,0,0,FBI
+687,AR06000,Pulaski,Sheriff,Pulaski,Arkansas,1980,July,1,Murder or Manslaughter,Yes,Male,17,Black,Not Hispanic,Male,67,White,Not Hispanic,Neighbor,Rifle,0,0,FBI
+688,AR06000,Pulaski,Sheriff,Pulaski,Arkansas,1980,July,2,Murder or Manslaughter,Yes,Female,26,Black,Not Hispanic,Male,33,Black,Not Hispanic,Acquaintance,Handgun,0,1,FBI
+689,AR06000,Pulaski,Sheriff,Pulaski,Arkansas,1980,August,1,Murder or Manslaughter,Yes,Male,20,White,Not Hispanic,Male,26,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+690,AR06000,Pulaski,Sheriff,Pulaski,Arkansas,1980,August,2,Murder or Manslaughter,Yes,Male,53,Black,Not Hispanic,Male,41,Black,Not Hispanic,Acquaintance,Knife,1,0,FBI
+692,AR06000,Pulaski,Sheriff,Pulaski,Arkansas,1980,September,2,Murder or Manslaughter,No,Male,23,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Shotgun,0,1,FBI
+695,AR06000,Pulaski,Sheriff,Pulaski,Arkansas,1980,November,2,Murder or Manslaughter,No,Male,64,White,Not Hispanic,Unknown,0,Unknown,Unknown,Stranger,Handgun,0,0,FBI
+697,AR06002,Little Rock,Municipal Police,Pulaski,Arkansas,1980,January,2,Murder or Manslaughter,No,Male,46,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+698,AR06002,Little Rock,Municipal Police,Pulaski,Arkansas,1980,January,3,Murder or Manslaughter,No,Male,20,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+699,AR06002,Little Rock,Municipal Police,Pulaski,Arkansas,1980,January,4,Murder or Manslaughter,No,Male,26,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+704,AR06002,Little Rock,Municipal Police,Pulaski,Arkansas,1980,February,3,Murder or Manslaughter,No,Male,34,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Shotgun,0,1,FBI
+708,AR06002,Little Rock,Municipal Police,Pulaski,Arkansas,1980,April,4,Murder or Manslaughter,No,Male,21,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+718,AR06002,Little Rock,Municipal Police,Pulaski,Arkansas,1980,May,6,Murder or Manslaughter,No,Male,30,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Acquaintance,Knife,0,0,FBI
+719,AR06002,Little Rock,Municipal Police,Pulaski,Arkansas,1980,June,1,Murder or Manslaughter,No,Female,24,Black,Unknown,Unknown,0,Unknown,Unknown,Unknown,Shotgun,0,0,FBI
+729,AR06002,Little Rock,Municipal Police,Pulaski,Arkansas,1980,September,4,Murder or Manslaughter,No,Female,41,Black,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+730,AR06002,Little Rock,Municipal Police,Pulaski,Arkansas,1980,September,5,Murder or Manslaughter,No,Female,22,Black,Unknown,Unknown,0,Unknown,Unknown,Unknown,Knife,0,1,FBI
+732,AR06002,Little Rock,Municipal Police,Pulaski,Arkansas,1980,October,2,Murder or Manslaughter,No,Male,47,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+743,AR06003,North Little Rock,Municipal Police,Pulaski,Arkansas,1980,July,3,Murder or Manslaughter,No,Male,30,White,Unknown,Unknown,0,Unknown,Unknown,Stranger,Blunt Object,0,1,FBI
+753,AR06601,Fort Smith,Municipal Police,Sebastian,Arkansas,1980,November,1,Murder or Manslaughter,No,Female,50,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+763,AR07100,Van Buren,Sheriff,Van Buren,Arkansas,1980,March,1,Murder or Manslaughter,Yes,Male,14,White,Not Hispanic,Male,14,White,Not Hispanic,Friend,Shotgun,0,0,FBI
+764,AR07100,Van Buren,Sheriff,Van Buren,Arkansas,1980,May,1,Murder or Manslaughter,Yes,Male,33,White,Not Hispanic,Male,29,White,Not Hispanic,Acquaintance,Shotgun,0,0,FBI
+765,AR07200,Washington,Sheriff,Washington,Arkansas,1980,October,1,Murder or Manslaughter,No,Female,21,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+766,AR07200,Washington,Sheriff,Washington,Arkansas,1980,October,2,Murder or Manslaughter,Yes,Female,32,White,Not Hispanic,Female,33,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+767,AR07200,Washington,Sheriff,Washington,Arkansas,1980,December,1,Murder or Manslaughter,Yes,Male,17,White,Not Hispanic,Male,58,White,Not Hispanic,Acquaintance,Rifle,0,0,FBI
+768,AR07201,Fayetteville,Municipal Police,Washington,Arkansas,1980,February,1,Murder or Manslaughter,Yes,Male,27,White,Not Hispanic,Male,27,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+769,AR07201,Fayetteville,Municipal Police,Washington,Arkansas,1980,September,1,Murder or Manslaughter,Yes,Female,0,White,Not Hispanic,Female,22,White,Not Hispanic,Daughter,Blunt Object,0,0,FBI
+770,AR07201,Fayetteville,Municipal Police,Washington,Arkansas,1980,October,1,Murder or Manslaughter,Yes,Male,28,White,Not Hispanic,Male,38,White,Not Hispanic,Acquaintance,Shotgun,0,0,FBI
+771,AR07400,Woodruff,Sheriff,Woodruff,Arkansas,1980,February,1,Murder or Manslaughter,Yes,Female,49,Black,Not Hispanic,Male,65,Black,Not Hispanic,Friend,Handgun,0,0,FBI
+772,AR07400,Woodruff,Sheriff,Woodruff,Arkansas,1980,May,1,Murder or Manslaughter,Yes,Female,56,Black,Not Hispanic,Male,65,Black,Not Hispanic,Friend,Handgun,0,0,FBI
+773,AR07501,Dardanelle,Municipal Police,Yell,Arkansas,1980,June,1,Murder or Manslaughter,Yes,Male,4,Asian/Pacific Islander,Unknown,Male,46,Asian/Pacific Islander,Unknown,Son,Rifle,0,0,FBI
+774,AR07502,Danville,Municipal Police,Yell,Arkansas,1980,September,1,Murder or Manslaughter,Yes,Male,62,Black,Not Hispanic,Female,60,Black,Not Hispanic,Ex-Husband,Handgun,0,0,FBI
+775,AZ00200,Cochise,Sheriff,Cochise,Arizona,1980,April,1,Murder or Manslaughter,Yes,Male,23,White,Hispanic,Male,31,White,Hispanic,Acquaintance,Knife,0,0,FBI
+776,AZ00200,Cochise,Sheriff,Cochise,Arizona,1980,August,1,Murder or Manslaughter,Yes,Female,27,White,Not Hispanic,Male,28,White,Not Hispanic,Girlfriend,Handgun,0,0,FBI
+777,AZ00200,Cochise,Sheriff,Cochise,Arizona,1980,October,1,Murder or Manslaughter,Yes,Male,26,White,Not Hispanic,Male,40,White,Not Hispanic,Boyfriend/Girlfriend,Shotgun,0,0,FBI
+778,AZ00203,Bisbee,Municipal Police,Cochise,Arizona,1980,November,1,Murder or Manslaughter,Yes,Male,34,White,Not Hispanic,Male,25,White,Not Hispanic,Friend,Knife,0,0,FBI
+779,AZ00205,Douglas,Municipal Police,Cochise,Arizona,1980,February,1,Murder or Manslaughter,Yes,Male,59,White,Hispanic,Male,23,White,Hispanic,Acquaintance,Knife,0,0,FBI
+780,AZ00207,Huachuca City,Municipal Police,Cochise,Arizona,1980,May,1,Murder or Manslaughter,Yes,Male,32,White,Not Hispanic,Male,72,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+781,AZ00209,Sierra Vista,Municipal Police,Cochise,Arizona,1980,July,1,Murder or Manslaughter,No,Female,33,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Firearm,0,0,FBI
+782,AZ00213,Willcox,Municipal Police,Cochise,Arizona,1980,June,1,Murder or Manslaughter,No,Male,9,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Fire,0,0,FBI
+783,AZ00301,Flagstaff,Municipal Police,Coconino,Arizona,1980,August,1,Murder or Manslaughter,Yes,Male,23,White,Hispanic,Male,62,Black,Not Hispanic,Stranger,Handgun,0,0,FBI
+784,AZ00400,Gila,Sheriff,Gila,Arizona,1980,April,1,Murder or Manslaughter,Yes,Male,27,White,Not Hispanic,Male,23,White,Hispanic,Acquaintance,Handgun,1,0,FBI
+785,AZ00400,Gila,Sheriff,Gila,Arizona,1980,January,1,Murder or Manslaughter,Yes,Female,34,White,Not Hispanic,Male,42,White,Not Hispanic,Wife,Blunt Object,0,0,FBI
+786,AZ00400,Gila,Sheriff,Gila,Arizona,1980,April,1,Murder or Manslaughter,Yes,Male,27,White,Not Hispanic,Male,23,White,Hispanic,Acquaintance,Handgun,1,0,FBI
+787,AZ00400,Gila,Sheriff,Gila,Arizona,1980,April,2,Murder or Manslaughter,No,Male,26,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+788,AZ00400,Gila,Sheriff,Gila,Arizona,1980,September,1,Murder or Manslaughter,Yes,Female,39,White,Not Hispanic,Male,38,White,Not Hispanic,Common-Law Wife,Knife,0,0,FBI
+789,AZ00401,Globe,Municipal Police,Gila,Arizona,1980,December,1,Murder or Manslaughter,Yes,Female,30,Native American/Alaska Native,Not Hispanic,Male,32,Native American/Alaska Native,Not Hispanic,Stranger,Knife,0,0,FBI
+790,AZ00405,Miami,Municipal Police,Gila,Arizona,1980,August,1,Murder or Manslaughter,Yes,Male,28,White,Not Hispanic,Male,30,White,Not Hispanic,Friend,Rifle,0,0,FBI
+791,AZ00405,Miami,Municipal Police,Gila,Arizona,1980,November,1,Murder or Manslaughter,Yes,Female,29,White,Hispanic,Male,32,White,Not Hispanic,Girlfriend,Fire,0,0,FBI
+792,AZ00406,Payson,Municipal Police,Gila,Arizona,1980,July,1,Murder or Manslaughter,Yes,Male,40,White,Not Hispanic,Male,18,White,Not Hispanic,Father,Shotgun,0,0,FBI
+793,AZ00406,Payson,Municipal Police,Gila,Arizona,1980,October,1,Murder or Manslaughter,Yes,Female,78,White,Not Hispanic,Male,93,White,Not Hispanic,Wife,Handgun,0,0,FBI
+794,AZ00407,Winkelman,Municipal Police,Gila,Arizona,1980,December,1,Murder or Manslaughter,Yes,Male,39,White,Hispanic,Male,35,White,Hispanic,Acquaintance,Blunt Object,0,1,FBI
+795,AZ00505,Thatcher,Municipal Police,Graham,Arizona,1980,April,1,Murder or Manslaughter,Yes,Female,22,White,Not Hispanic,Male,23,White,Not Hispanic,Wife,Handgun,0,0,FBI
+796,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,January,3,Murder or Manslaughter,No,Male,99,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Unknown,1,0,FBI
+797,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,January,1,Murder or Manslaughter,Yes,Male,22,White,Not Hispanic,Male,25,White,Not Hispanic,Acquaintance,Strangulation,0,1,FBI
+798,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,January,2,Murder or Manslaughter,Yes,Male,22,White,Not Hispanic,Male,18,White,Not Hispanic,Stranger,Knife,0,2,FBI
+799,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,January,3,Murder or Manslaughter,No,Female,99,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Unknown,1,0,FBI
+800,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,February,1,Murder or Manslaughter,Yes,Male,29,White,Not Hispanic,Male,30,White,Not Hispanic,Stranger,Shotgun,0,0,FBI
+801,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,February,2,Murder or Manslaughter,Yes,Female,20,White,Not Hispanic,Male,34,White,Not Hispanic,Acquaintance,Strangulation,0,0,FBI
+802,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,February,3,Murder or Manslaughter,Yes,Male,23,Black,Not Hispanic,Female,29,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+803,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,March,1,Murder or Manslaughter,No,Male,17,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+804,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,March,2,Murder or Manslaughter,Yes,Male,27,White,Not Hispanic,Male,55,White,Not Hispanic,Acquaintance,Rifle,0,0,FBI
+805,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,May,1,Murder or Manslaughter,Yes,Female,84,White,Not Hispanic,Male,77,White,Not Hispanic,Wife,Blunt Object,0,0,FBI
+806,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,June,1,Murder or Manslaughter,Yes,Male,27,White,Hispanic,Male,36,White,Hispanic,Acquaintance,Knife,0,0,FBI
+807,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,July,1,Murder or Manslaughter,No,Male,23,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+808,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,August,1,Murder or Manslaughter,No,Female,25,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+809,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,August,2,Murder or Manslaughter,Yes,Male,50,White,Not Hispanic,Female,41,White,Not Hispanic,Husband,Rifle,0,0,FBI
+810,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,August,3,Murder or Manslaughter,Yes,Female,70,White,Not Hispanic,Male,73,White,Not Hispanic,Wife,Handgun,0,0,FBI
+811,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,August,4,Murder or Manslaughter,Yes,Male,27,White,Not Hispanic,Male,20,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+812,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,August,5,Murder or Manslaughter,No,Male,46,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+813,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,August,6,Murder or Manslaughter,No,Male,23,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+814,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,September,1,Murder or Manslaughter,Yes,Male,32,White,Hispanic,Male,32,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+815,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,September,2,Murder or Manslaughter,Yes,Male,18,White,Not Hispanic,Male,18,White,Not Hispanic,Acquaintance,Knife,0,0,FBI
+816,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,September,3,Murder or Manslaughter,Yes,Male,53,White,Not Hispanic,Male,31,White,Not Hispanic,Stranger,Blunt Object,0,0,FBI
+817,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,September,4,Manslaughter by Negligence,Yes,Male,10,White,Not Hispanic,Male,13,White,Not Hispanic,Neighbor,Shotgun,0,0,FBI
+818,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,October,1,Murder or Manslaughter,No,Male,31,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+819,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,October,2,Murder or Manslaughter,No,Female,71,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+820,AZ00700,Maricopa,Sheriff,Maricopa,Arizona,1980,November,1,Murder or Manslaughter,No,Female,15,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+821,AZ00701,Avondale,Municipal Police,Maricopa,Arizona,1980,February,1,Murder or Manslaughter,Yes,Male,30,White,Hispanic,Male,30,White,Hispanic,Stranger,Handgun,0,0,FBI
+822,AZ00703,Buckeye,Municipal Police,Maricopa,Arizona,1980,October,1,Murder or Manslaughter,Yes,Male,50,Black,Not Hispanic,Male,21,White,Not Hispanic,Acquaintance,Handgun,0,3,FBI
+823,AZ00705,Chandler,Municipal Police,Maricopa,Arizona,1980,July,1,Murder or Manslaughter,Yes,Male,22,White,Hispanic,Male,31,White,Hispanic,Acquaintance,Handgun,0,1,FBI
+824,AZ00705,Chandler,Municipal Police,Maricopa,Arizona,1980,November,1,Murder or Manslaughter,Yes,Female,29,Native American/Alaska Native,Not Hispanic,Male,33,Native American/Alaska Native,Not Hispanic,Girlfriend,Knife,0,0,FBI
+825,AZ00707,El Mirage,Municipal Police,Maricopa,Arizona,1980,January,1,Murder or Manslaughter,Yes,Male,64,White,Not Hispanic,Male,20,Native American/Alaska Native,Not Hispanic,Mother,Knife,1,0,FBI
+826,AZ00707,El Mirage,Municipal Police,Maricopa,Arizona,1980,January,1,Murder or Manslaughter,Yes,Female,62,White,Not Hispanic,Male,20,Native American/Alaska Native,Not Hispanic,Mother,Knife,1,0,FBI
+827,AZ00709,Gila Bend,Municipal Police,Maricopa,Arizona,1980,May,1,Murder or Manslaughter,Yes,Male,23,White,Not Hispanic,Male,33,Black,Not Hispanic,Stranger,Handgun,0,0,FBI
+828,AZ00713,Glendale,Municipal Police,Maricopa,Arizona,1980,May,1,Murder or Manslaughter,Yes,Female,50,White,Not Hispanic,Male,46,White,Not Hispanic,Wife,Handgun,0,0,FBI
+829,AZ00713,Glendale,Municipal Police,Maricopa,Arizona,1980,August,1,Murder or Manslaughter,Yes,Female,33,White,Not Hispanic,Male,33,White,Not Hispanic,Girlfriend,Handgun,0,0,FBI
+830,AZ00713,Glendale,Municipal Police,Maricopa,Arizona,1980,August,2,Murder or Manslaughter,Yes,Male,33,White,Hispanic,Male,31,White,Hispanic,Acquaintance,Handgun,0,0,FBI
+831,AZ00717,Mesa,Municipal Police,Maricopa,Arizona,1980,November,1,Murder or Manslaughter,Yes,Female,75,White,Not Hispanic,Male,23,White,Not Hispanic,Acquaintance,Blunt Object,1,0,FBI
+832,AZ00717,Mesa,Municipal Police,Maricopa,Arizona,1980,January,1,Murder or Manslaughter,Yes,Male,28,White,Not Hispanic,Male,26,White,Not Hispanic,Acquaintance,Shotgun,0,0,FBI
+833,AZ00717,Mesa,Municipal Police,Maricopa,Arizona,1980,January,2,Murder or Manslaughter,No,Female,14,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Strangulation,0,0,FBI
+834,AZ00717,Mesa,Municipal Police,Maricopa,Arizona,1980,February,1,Murder or Manslaughter,Yes,Male,56,White,Not Hispanic,Male,16,White,Hispanic,Stranger,Handgun,0,1,FBI
+835,AZ00717,Mesa,Municipal Police,Maricopa,Arizona,1980,April,1,Murder or Manslaughter,Yes,Female,41,White,Not Hispanic,Male,40,White,Not Hispanic,Wife,Rifle,0,0,FBI
+836,AZ00717,Mesa,Municipal Police,Maricopa,Arizona,1980,June,1,Murder or Manslaughter,Yes,Male,22,White,Not Hispanic,Male,23,White,Not Hispanic,Friend,Rifle,0,0,FBI
+837,AZ00717,Mesa,Municipal Police,Maricopa,Arizona,1980,June,2,Murder or Manslaughter,Yes,Male,27,White,Not Hispanic,Male,26,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+838,AZ00717,Mesa,Municipal Police,Maricopa,Arizona,1980,August,1,Murder or Manslaughter,Yes,Male,8,White,Not Hispanic,Male,13,White,Not Hispanic,Friend,Handgun,0,0,FBI
+839,AZ00717,Mesa,Municipal Police,Maricopa,Arizona,1980,September,1,Murder or Manslaughter,Yes,Female,37,Native American/Alaska Native,Not Hispanic,Male,37,Native American/Alaska Native,Not Hispanic,Girlfriend,Handgun,0,0,FBI
+840,AZ00717,Mesa,Municipal Police,Maricopa,Arizona,1980,November,1,Murder or Manslaughter,Yes,Male,82,White,Not Hispanic,Male,23,White,Not Hispanic,Acquaintance,Blunt Object,1,0,FBI
+841,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,December,11,Murder or Manslaughter,Yes,Female,70,White,Not Hispanic,Male,41,White,Not Hispanic,Stranger,Handgun,1,2,FBI
+842,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,January,1,Murder or Manslaughter,Yes,Male,17,White,Hispanic,Male,16,White,Not Hispanic,Stranger,Shotgun,0,0,FBI
+843,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,January,2,Murder or Manslaughter,Yes,Male,17,White,Hispanic,Male,25,White,Hispanic,Stranger,Rifle,0,0,FBI
+844,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,January,3,Murder or Manslaughter,Yes,Male,22,White,Hispanic,Male,20,White,Hispanic,Stranger,Handgun,0,0,FBI
+845,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,January,4,Murder or Manslaughter,Yes,Male,28,White,Not Hispanic,Male,29,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+846,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,January,5,Murder or Manslaughter,Yes,Male,22,White,Not Hispanic,Male,24,White,Not Hispanic,Acquaintance,Knife,0,0,FBI
+847,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,January,6,Murder or Manslaughter,Yes,Male,45,Black,Not Hispanic,Male,0,Black,Not Hispanic,Unknown,Handgun,0,0,FBI
+848,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,January,7,Murder or Manslaughter,No,Male,50,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Strangulation,0,0,FBI
+849,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,January,8,Murder or Manslaughter,No,Male,55,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Suffocation,0,0,FBI
+850,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,January,9,Murder or Manslaughter,Yes,Male,1,White,Not Hispanic,Male,22,White,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+851,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,January,10,Murder or Manslaughter,No,Male,78,Native American/Alaska Native,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+852,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,February,1,Murder or Manslaughter,No,Male,63,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Firearm,0,0,FBI
+853,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,February,2,Murder or Manslaughter,Yes,Male,22,White,Not Hispanic,Male,21,White,Not Hispanic,Stranger,Knife,0,2,FBI
+854,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,February,3,Murder or Manslaughter,Yes,Male,21,Black,Not Hispanic,Female,19,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+855,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,February,4,Murder or Manslaughter,Yes,Male,48,White,Hispanic,Male,25,White,Hispanic,Stranger,Knife,0,0,FBI
+856,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,February,5,Murder or Manslaughter,Yes,Male,25,White,Not Hispanic,Male,21,White,Not Hispanic,Stranger,Handgun,0,1,FBI
+857,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,February,6,Murder or Manslaughter,Yes,Female,0,White,Hispanic,Male,19,White,Hispanic,Stranger,Blunt Object,0,0,FBI
+858,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,February,7,Murder or Manslaughter,Yes,Male,19,Black,Not Hispanic,Male,16,White,Hispanic,Acquaintance,Handgun,0,0,FBI
+859,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,February,8,Murder or Manslaughter,Yes,Male,40,Black,Not Hispanic,Male,65,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+860,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,February,9,Murder or Manslaughter,No,Male,31,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+861,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,February,10,Murder or Manslaughter,Yes,Male,17,Black,Not Hispanic,Male,15,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+862,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,March,1,Murder or Manslaughter,No,Male,62,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+863,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,March,2,Murder or Manslaughter,Yes,Female,1,White,Not Hispanic,Male,23,White,Hispanic,Acquaintance,Blunt Object,0,0,FBI
+864,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,March,3,Murder or Manslaughter,Yes,Male,19,White,Not Hispanic,Male,37,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+865,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,March,4,Murder or Manslaughter,Yes,Male,31,White,Not Hispanic,Male,17,White,Hispanic,Stranger,Knife,0,0,FBI
+866,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,March,5,Murder or Manslaughter,Yes,Female,25,White,Not Hispanic,Male,20,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+867,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,March,6,Murder or Manslaughter,Yes,Male,22,White,Not Hispanic,Male,60,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+868,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,March,7,Murder or Manslaughter,No,Male,56,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+869,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,March,8,Murder or Manslaughter,No,Female,1,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+870,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,April,1,Murder or Manslaughter,Yes,Male,21,White,Hispanic,Male,27,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+871,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,April,2,Murder or Manslaughter,Yes,Male,38,White,Not Hispanic,Male,18,White,Not Hispanic,Father,Rifle,0,0,FBI
+872,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,April,3,Murder or Manslaughter,Yes,Male,31,White,Not Hispanic,Male,53,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+873,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,April,4,Murder or Manslaughter,Yes,Male,17,Black,Not Hispanic,Male,19,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+874,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,April,5,Murder or Manslaughter,No,Male,15,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+875,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,April,6,Murder or Manslaughter,Yes,Male,51,Black,Not Hispanic,Male,61,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+876,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,April,7,Murder or Manslaughter,Yes,Male,40,White,Hispanic,Female,40,White,Hispanic,Husband,Knife,0,0,FBI
+877,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,April,8,Murder or Manslaughter,No,Male,32,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+878,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,April,9,Murder or Manslaughter,Yes,Female,86,White,Not Hispanic,Male,27,White,Not Hispanic,Stranger,Blunt Object,0,0,FBI
+879,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,April,10,Murder or Manslaughter,No,Female,18,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Strangulation,0,0,FBI
+880,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,April,11,Murder or Manslaughter,Yes,Female,45,White,Hispanic,Male,24,White,Hispanic,Acquaintance,Handgun,0,0,FBI
+881,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,April,12,Murder or Manslaughter,Yes,Male,53,Black,Not Hispanic,Female,49,Black,Not Hispanic,Boyfriend,Handgun,0,0,FBI
+882,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,May,1,Murder or Manslaughter,Yes,Male,29,Black,Not Hispanic,Male,0,White,Not Hispanic,Unknown,Handgun,0,0,FBI
+883,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,May,2,Murder or Manslaughter,No,Male,39,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+884,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,May,3,Murder or Manslaughter,Yes,Male,26,White,Hispanic,Male,60,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+885,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,May,4,Murder or Manslaughter,No,Male,20,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+886,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,May,5,Murder or Manslaughter,Yes,Female,53,White,Not Hispanic,Male,37,White,Not Hispanic,Mother,Handgun,0,0,FBI
+887,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,May,6,Murder or Manslaughter,Yes,Male,2,White,Hispanic,Male,34,White,Hispanic,Friend,Blunt Object,0,0,FBI
+888,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,May,7,Murder or Manslaughter,Yes,Male,27,White,Not Hispanic,Male,34,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+889,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,May,8,Murder or Manslaughter,Yes,Male,18,Black,Not Hispanic,Male,19,Black,Not Hispanic,Acquaintance,Knife,0,0,FBI
+890,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,May,9,Murder or Manslaughter,Yes,Male,18,White,Hispanic,Male,15,White,Hispanic,Stranger,Handgun,0,0,FBI
+891,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,June,1,Murder or Manslaughter,Yes,Male,29,White,Not Hispanic,Male,27,White,Not Hispanic,Stranger,Blunt Object,0,0,FBI
+892,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,June,2,Murder or Manslaughter,No,Male,51,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+893,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,June,3,Murder or Manslaughter,No,Female,32,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+894,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,June,4,Murder or Manslaughter,No,Male,45,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+895,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,June,5,Murder or Manslaughter,Yes,Male,70,White,Not Hispanic,Female,58,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+896,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,June,6,Murder or Manslaughter,No,Male,20,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+897,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,July,1,Murder or Manslaughter,No,Male,36,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+898,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,July,2,Murder or Manslaughter,Yes,Female,1,White,Not Hispanic,Male,22,White,Not Hispanic,Daughter,Blunt Object,0,0,FBI
+899,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,July,3,Murder or Manslaughter,Yes,Male,25,Black,Not Hispanic,Male,34,Black,Not Hispanic,Acquaintance,Knife,0,0,FBI
+900,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,July,4,Murder or Manslaughter,Yes,Male,38,White,Not Hispanic,Male,18,White,Hispanic,Acquaintance,Rifle,0,0,FBI
+901,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,July,5,Murder or Manslaughter,Yes,Female,22,White,Hispanic,Male,23,White,Hispanic,Sister,Handgun,0,0,FBI
+902,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,July,6,Murder or Manslaughter,Yes,Male,19,White,Not Hispanic,Male,17,White,Hispanic,Stranger,Handgun,0,0,FBI
+903,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,July,7,Murder or Manslaughter,Yes,Female,34,White,Not Hispanic,Male,37,White,Not Hispanic,Wife,Knife,0,0,FBI
+904,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,July,8,Murder or Manslaughter,Yes,Male,84,White,Not Hispanic,Male,29,Black,Not Hispanic,Stranger,Handgun,0,0,FBI
+905,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,July,9,Murder or Manslaughter,Yes,Male,43,White,Not Hispanic,Female,39,White,Not Hispanic,Husband,Handgun,0,0,FBI
+906,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,August,1,Murder or Manslaughter,Yes,Female,52,White,Not Hispanic,Male,27,White,Not Hispanic,Mother,Blunt Object,0,0,FBI
+907,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,August,2,Murder or Manslaughter,Yes,Male,20,White,Hispanic,Male,17,White,Hispanic,Acquaintance,Knife,0,2,FBI
+908,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,August,3,Murder or Manslaughter,Yes,Male,46,White,Hispanic,Male,54,White,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+909,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,August,4,Murder or Manslaughter,No,Male,23,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Firearm,0,0,FBI
+910,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,August,5,Murder or Manslaughter,Yes,Male,25,Black,Not Hispanic,Male,25,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+911,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,August,6,Murder or Manslaughter,Yes,Male,57,Black,Not Hispanic,Male,54,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+912,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,September,1,Murder or Manslaughter,No,Female,57,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+913,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,September,2,Murder or Manslaughter,No,Male,33,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+914,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,September,3,Murder or Manslaughter,Yes,Male,25,White,Not Hispanic,Male,38,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+915,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,September,4,Murder or Manslaughter,No,Male,20,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+916,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,September,5,Murder or Manslaughter,No,Male,40,Native American/Alaska Native,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+917,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,September,6,Murder or Manslaughter,Yes,Male,28,Black,Not Hispanic,Male,27,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+918,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,September,7,Murder or Manslaughter,Yes,Male,27,White,Not Hispanic,Male,49,White,Not Hispanic,Son,Handgun,0,0,FBI
+919,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,September,8,Murder or Manslaughter,Yes,Male,24,Black,Not Hispanic,Male,25,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+920,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,October,1,Murder or Manslaughter,No,Male,44,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+921,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,October,2,Murder or Manslaughter,Yes,Female,20,Native American/Alaska Native,Not Hispanic,Male,27,White,Hispanic,Stranger,Knife,0,0,FBI
+922,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,October,3,Murder or Manslaughter,No,Male,36,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+923,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,October,4,Murder or Manslaughter,Yes,Female,35,White,Not Hispanic,Male,50,White,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+924,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,October,5,Murder or Manslaughter,Yes,Male,29,Black,Not Hispanic,Female,27,Black,Not Hispanic,Husband,Handgun,0,0,FBI
+925,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,October,6,Murder or Manslaughter,Yes,Female,35,White,Not Hispanic,Male,60,White,Not Hispanic,Wife,Handgun,0,0,FBI
+926,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,October,7,Murder or Manslaughter,Yes,Male,31,White,Not Hispanic,Male,24,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+927,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,October,8,Murder or Manslaughter,Yes,Male,21,Black,Not Hispanic,Male,18,Black,Not Hispanic,Acquaintance,Rifle,0,0,FBI
+928,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,October,9,Murder or Manslaughter,No,Female,41,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Explosives,0,0,FBI
+929,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,November,1,Murder or Manslaughter,Yes,Male,39,White,Not Hispanic,Male,31,White,Not Hispanic,Stranger,Handgun,0,1,FBI
+930,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,November,2,Murder or Manslaughter,Yes,Female,37,White,Hispanic,Male,36,White,Hispanic,Acquaintance,Handgun,0,0,FBI
+931,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,November,3,Murder or Manslaughter,Yes,Male,29,White,Not Hispanic,Male,22,Black,Not Hispanic,Stranger,Handgun,0,0,FBI
+932,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,November,4,Murder or Manslaughter,Yes,Male,45,Black,Not Hispanic,Male,58,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+933,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,November,5,Murder or Manslaughter,No,Male,33,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+934,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,November,6,Murder or Manslaughter,Yes,Male,24,White,Hispanic,Male,46,White,Hispanic,Acquaintance,Handgun,0,0,FBI
+935,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,November,7,Murder or Manslaughter,Yes,Male,29,White,Not Hispanic,Female,25,White,Not Hispanic,Husband,Handgun,0,0,FBI
+936,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,November,8,Murder or Manslaughter,Yes,Female,35,White,Not Hispanic,Male,32,White,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+937,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,December,1,Murder or Manslaughter,Yes,Female,34,Native American/Alaska Native,Not Hispanic,Male,36,Native American/Alaska Native,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+938,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,December,2,Murder or Manslaughter,No,Male,26,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Firearm,0,0,FBI
+939,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,December,3,Murder or Manslaughter,Yes,Male,54,White,Not Hispanic,Male,21,Black,Not Hispanic,Stranger,Rifle,0,0,FBI
+940,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,December,4,Murder or Manslaughter,No,Male,60,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+941,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,December,5,Murder or Manslaughter,No,Male,43,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Strangulation,0,0,FBI
+942,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,December,6,Murder or Manslaughter,Yes,Male,30,White,Not Hispanic,Male,20,White,Hispanic,Acquaintance,Knife,0,0,FBI
+943,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,December,7,Murder or Manslaughter,Yes,Male,25,White,Not Hispanic,Male,25,White,Not Hispanic,Acquaintance,Knife,0,0,FBI
+944,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,December,8,Murder or Manslaughter,Yes,Male,27,White,Hispanic,Male,30,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+945,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,December,9,Murder or Manslaughter,No,Female,30,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+946,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,December,10,Murder or Manslaughter,Yes,Male,20,White,Not Hispanic,Male,19,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+947,AZ00723,Phoenix,Municipal Police,Maricopa,Arizona,1980,December,11,Murder or Manslaughter,Yes,Male,46,White,Not Hispanic,Male,41,White,Not Hispanic,Stranger,Handgun,1,2,FBI
+948,AZ00725,Scottsdale,Municipal Police,Maricopa,Arizona,1980,February,1,Murder or Manslaughter,No,Male,23,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+949,AZ00725,Scottsdale,Municipal Police,Maricopa,Arizona,1980,March,1,Murder or Manslaughter,Yes,Male,45,White,Not Hispanic,Male,41,White,Not Hispanic,Unknown,Handgun,0,0,FBI
+950,AZ00725,Scottsdale,Municipal Police,Maricopa,Arizona,1980,March,2,Murder or Manslaughter,Yes,Male,41,White,Not Hispanic,Male,27,White,Not Hispanic,Unknown,Handgun,0,0,FBI
+951,AZ00725,Scottsdale,Municipal Police,Maricopa,Arizona,1980,August,1,Murder or Manslaughter,Yes,Female,52,White,Not Hispanic,Male,43,White,Not Hispanic,Girlfriend,Knife,0,0,FBI
+952,AZ00725,Scottsdale,Municipal Police,Maricopa,Arizona,1980,September,1,Murder or Manslaughter,Yes,Female,39,White,Not Hispanic,Male,60,White,Not Hispanic,Girlfriend,Handgun,0,0,FBI
+953,AZ00725,Scottsdale,Municipal Police,Maricopa,Arizona,1980,September,2,Manslaughter by Negligence,Yes,Male,18,White,Not Hispanic,Male,16,White,Hispanic,Friend,Handgun,0,0,FBI
+954,AZ00729,Tempe,Municipal Police,Maricopa,Arizona,1980,January,1,Murder or Manslaughter,Yes,Male,19,White,Hispanic,Male,17,White,Hispanic,Acquaintance,Rifle,0,2,FBI
+955,AZ00729,Tempe,Municipal Police,Maricopa,Arizona,1980,June,1,Murder or Manslaughter,Yes,Female,20,White,Not Hispanic,Male,33,Black,Not Hispanic,Acquaintance,Knife,0,0,FBI
+956,AZ00729,Tempe,Municipal Police,Maricopa,Arizona,1980,July,1,Murder or Manslaughter,Yes,Male,22,White,Not Hispanic,Male,30,White,Not Hispanic,Acquaintance,Rifle,0,0,FBI
+957,AZ00729,Tempe,Municipal Police,Maricopa,Arizona,1980,July,2,Murder or Manslaughter,Yes,Female,18,White,Not Hispanic,Male,24,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+958,AZ00729,Tempe,Municipal Police,Maricopa,Arizona,1980,July,3,Murder or Manslaughter,Yes,Male,26,White,Not Hispanic,Male,22,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+959,AZ00729,Tempe,Municipal Police,Maricopa,Arizona,1980,September,1,Murder or Manslaughter,Yes,Male,23,White,Not Hispanic,Male,36,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+960,AZ00729,Tempe,Municipal Police,Maricopa,Arizona,1980,December,1,Murder or Manslaughter,Yes,Male,21,White,Not Hispanic,Male,23,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+961,AZ00729,Tempe,Municipal Police,Maricopa,Arizona,1980,December,2,Murder or Manslaughter,Yes,Male,41,White,Not Hispanic,Male,36,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+962,AZ00731,Tolleson,Municipal Police,Maricopa,Arizona,1980,January,1,Murder or Manslaughter,Yes,Male,47,White,Hispanic,Male,57,White,Hispanic,In-Law,Knife,0,0,FBI
+963,AZ00800,Mohave,Sheriff,Mohave,Arizona,1980,July,1,Murder or Manslaughter,Yes,Male,58,White,Not Hispanic,Male,31,White,Hispanic,Father,Handgun,0,0,FBI
+964,AZ00800,Mohave,Sheriff,Mohave,Arizona,1980,December,1,Murder or Manslaughter,Yes,Female,15,White,Not Hispanic,Male,51,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+965,AZ00900,Navajo,Sheriff,Navajo,Arizona,1980,May,1,Murder or Manslaughter,Yes,Male,19,Native American/Alaska Native,Not Hispanic,Male,24,Native American/Alaska Native,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+966,AZ00900,Navajo,Sheriff,Navajo,Arizona,1980,June,1,Murder or Manslaughter,Yes,Male,47,Black,Not Hispanic,Male,31,White,Hispanic,Stranger,Handgun,0,0,FBI
+967,AZ00901,Holbrook,Municipal Police,Navajo,Arizona,1980,January,1,Murder or Manslaughter,Yes,Male,33,Native American/Alaska Native,Not Hispanic,Male,21,Black,Not Hispanic,Stranger,Blunt Object,0,0,FBI
+968,AZ00901,Holbrook,Municipal Police,Navajo,Arizona,1980,January,2,Murder or Manslaughter,Yes,Female,19,White,Not Hispanic,Male,23,White,Not Hispanic,Girlfriend,Rifle,0,0,FBI
+969,AZ00903,Show Low,Municipal Police,Navajo,Arizona,1980,December,1,Murder or Manslaughter,Yes,Male,26,White,Not Hispanic,Male,36,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+970,AZ00909,Winslow,Municipal Police,Navajo,Arizona,1980,February,1,Murder or Manslaughter,Yes,Male,27,White,Hispanic,Male,25,White,Hispanic,Acquaintance,Handgun,0,0,FBI
+971,AZ01000,Pima,Sheriff,Pima,Arizona,1980,January,1,Murder or Manslaughter,No,Female,45,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+972,AZ01000,Pima,Sheriff,Pima,Arizona,1980,February,1,Murder or Manslaughter,No,Male,27,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+973,AZ01000,Pima,Sheriff,Pima,Arizona,1980,February,2,Murder or Manslaughter,Yes,Male,5,White,Not Hispanic,Female,23,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+974,AZ01000,Pima,Sheriff,Pima,Arizona,1980,May,1,Manslaughter by Negligence,Yes,Male,11,White,Not Hispanic,Male,16,White,Not Hispanic,Brother,Rifle,0,0,FBI
+975,AZ01000,Pima,Sheriff,Pima,Arizona,1980,June,1,Murder or Manslaughter,No,Female,25,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Drugs,0,0,FBI
+976,AZ01000,Pima,Sheriff,Pima,Arizona,1980,July,1,Murder or Manslaughter,Yes,Male,14,White,Not Hispanic,Male,47,White,Not Hispanic,Son,Handgun,0,0,FBI
+977,AZ01000,Pima,Sheriff,Pima,Arizona,1980,August,1,Murder or Manslaughter,No,Female,32,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Strangulation,0,0,FBI
+978,AZ01000,Pima,Sheriff,Pima,Arizona,1980,October,1,Murder or Manslaughter,No,Male,20,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+979,AZ01000,Pima,Sheriff,Pima,Arizona,1980,October,2,Murder or Manslaughter,No,Female,30,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Strangulation,0,0,FBI
+980,AZ01000,Pima,Sheriff,Pima,Arizona,1980,November,1,Murder or Manslaughter,Yes,Female,35,White,Not Hispanic,Male,48,White,Not Hispanic,Wife,Handgun,0,0,FBI
+981,AZ01000,Pima,Sheriff,Pima,Arizona,1980,November,2,Murder or Manslaughter,Yes,Female,33,White,Not Hispanic,Male,19,White,Not Hispanic,Acquaintance,Knife,0,0,FBI
+982,AZ01001,South Tucson,Municipal Police,Pima,Arizona,1980,February,1,Murder or Manslaughter,Yes,Male,17,White,Hispanic,Male,15,Black,Not Hispanic,Neighbor,Handgun,0,0,FBI
+983,AZ01001,South Tucson,Municipal Police,Pima,Arizona,1980,March,1,Murder or Manslaughter,Yes,Male,73,White,Not Hispanic,Male,15,Black,Not Hispanic,Neighbor,Knife,0,0,FBI
+984,AZ01001,South Tucson,Municipal Police,Pima,Arizona,1980,November,1,Manslaughter by Negligence,Yes,Male,2,White,Hispanic,Male,28,White,Hispanic,Son,Handgun,0,0,FBI
+985,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,April,4,Murder or Manslaughter,No,Female,90,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Fire,2,0,FBI
+986,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,January,4,Murder or Manslaughter,Yes,Male,34,White,Not Hispanic,Male,30,White,Not Hispanic,Stranger,Handgun,1,0,FBI
+987,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,April,4,Murder or Manslaughter,No,Female,99,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Fire,2,0,FBI
+988,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,December,4,Murder or Manslaughter,Yes,Male,48,White,Not Hispanic,Male,17,White,Not Hispanic,Mother,Handgun,1,0,FBI
+989,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,January,1,Murder or Manslaughter,No,Female,83,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Fire,0,0,FBI
+990,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,January,2,Murder or Manslaughter,Yes,Male,48,White,Not Hispanic,Male,42,White,Not Hispanic,Stranger,Shotgun,0,0,FBI
+991,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,January,3,Murder or Manslaughter,No,Male,19,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+992,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,January,4,Murder or Manslaughter,Yes,Male,35,White,Not Hispanic,Male,30,White,Not Hispanic,Stranger,Handgun,1,0,FBI
+993,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,January,5,Murder or Manslaughter,No,Male,39,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+994,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,February,1,Murder or Manslaughter,Yes,Male,58,Black,Not Hispanic,Female,58,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+995,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,February,2,Manslaughter by Negligence,Yes,Male,0,Black,Not Hispanic,Male,27,Black,Not Hispanic,Son,Blunt Object,0,0,FBI
+996,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,March,1,Murder or Manslaughter,Yes,Male,23,White,Hispanic,Male,20,White,Not Hispanic,Acquaintance,Handgun,0,1,FBI
+997,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,March,2,Murder or Manslaughter,No,Male,99,Native American/Alaska Native,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+998,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,April,1,Murder or Manslaughter,Yes,Male,25,Native American/Alaska Native,Not Hispanic,Female,17,White,Not Hispanic,Boyfriend,Rifle,0,0,FBI
+999,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,April,2,Murder or Manslaughter,Yes,Female,0,White,Not Hispanic,Male,35,White,Not Hispanic,Daughter,Blunt Object,0,0,FBI
+1000,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,April,3,Murder or Manslaughter,No,Male,41,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1001,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,April,4,Murder or Manslaughter,No,Male,5,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Fire,2,0,FBI
+1002,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,May,1,Murder or Manslaughter,Yes,Male,15,White,Hispanic,Male,21,White,Hispanic,Acquaintance,Rifle,0,0,FBI
+1003,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,May,2,Murder or Manslaughter,No,Male,24,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1004,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,May,3,Murder or Manslaughter,No,Male,25,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Firearm,0,0,FBI
+1005,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,May,4,Murder or Manslaughter,No,Male,23,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Firearm,0,0,FBI
+1006,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,May,5,Murder or Manslaughter,Yes,Male,45,Black,Not Hispanic,Male,29,Black,Not Hispanic,Acquaintance,Unknown,0,0,FBI
+1007,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,June,1,Murder or Manslaughter,Yes,Male,31,White,Hispanic,Male,29,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+1008,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,June,2,Murder or Manslaughter,No,Male,19,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1009,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,June,3,Murder or Manslaughter,Yes,Male,71,White,Not Hispanic,Male,59,White,Not Hispanic,Friend,Handgun,0,0,FBI
+1010,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,June,4,Murder or Manslaughter,Yes,Female,38,White,Not Hispanic,Male,40,White,Not Hispanic,Wife,Handgun,0,0,FBI
+1011,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,July,1,Murder or Manslaughter,Yes,Male,21,White,Not Hispanic,Male,30,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+1012,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,August,1,Murder or Manslaughter,Yes,Male,27,White,Not Hispanic,Female,25,White,Not Hispanic,Husband,Knife,0,0,FBI
+1013,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,September,1,Murder or Manslaughter,No,Male,21,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1014,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,September,2,Murder or Manslaughter,No,Female,30,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+1015,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,September,3,Murder or Manslaughter,Yes,Male,42,White,Hispanic,Male,57,White,Not Hispanic,In-Law,Handgun,0,0,FBI
+1016,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,September,4,Murder or Manslaughter,Yes,Male,25,White,Hispanic,Male,19,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+1017,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,October,1,Murder or Manslaughter,Yes,Male,25,White,Hispanic,Male,34,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+1018,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,October,2,Murder or Manslaughter,Yes,Male,31,White,Hispanic,Male,27,White,Hispanic,Family,Knife,0,0,FBI
+1019,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,November,1,Murder or Manslaughter,Yes,Male,22,White,Hispanic,Male,17,Black,Not Hispanic,Neighbor,Handgun,0,1,FBI
+1020,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,November,2,Murder or Manslaughter,Yes,Female,30,White,Not Hispanic,Male,24,White,Not Hispanic,Sister,Handgun,0,0,FBI
+1021,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,November,3,Murder or Manslaughter,Yes,Male,32,White,Not Hispanic,Male,50,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+1022,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,December,1,Murder or Manslaughter,Yes,Male,17,White,Hispanic,Male,20,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+1023,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,December,2,Murder or Manslaughter,Yes,Male,26,White,Not Hispanic,Female,21,White,Not Hispanic,Boyfriend,Handgun,0,0,FBI
+1024,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,December,3,Murder or Manslaughter,No,Female,14,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+1025,AZ01003,Tucson,Municipal Police,Pima,Arizona,1980,December,4,Murder or Manslaughter,Yes,Female,38,White,Not Hispanic,Male,17,White,Not Hispanic,Mother,Handgun,1,0,FBI
+1026,AZ01100,Pinal,Sheriff,Pinal,Arizona,1980,November,2,Murder or Manslaughter,No,Male,64,Native American/Alaska Native,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,1,0,FBI
+1027,AZ01100,Pinal,Sheriff,Pinal,Arizona,1980,January,1,Murder or Manslaughter,No,Male,99,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+1028,AZ01100,Pinal,Sheriff,Pinal,Arizona,1980,January,2,Murder or Manslaughter,No,Male,99,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+1029,AZ01100,Pinal,Sheriff,Pinal,Arizona,1980,February,1,Murder or Manslaughter,Yes,Male,32,Black,Not Hispanic,Male,27,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+1030,AZ01100,Pinal,Sheriff,Pinal,Arizona,1980,March,1,Murder or Manslaughter,Yes,Male,19,White,Not Hispanic,Male,26,White,Hispanic,Acquaintance,Blunt Object,0,0,FBI
+1031,AZ01100,Pinal,Sheriff,Pinal,Arizona,1980,May,1,Murder or Manslaughter,No,Female,99,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1032,AZ01100,Pinal,Sheriff,Pinal,Arizona,1980,May,2,Murder or Manslaughter,Yes,Male,26,Black,Not Hispanic,Male,36,Black,Not Hispanic,Acquaintance,Rifle,0,0,FBI
+1033,AZ01100,Pinal,Sheriff,Pinal,Arizona,1980,June,1,Murder or Manslaughter,Yes,Male,54,White,Not Hispanic,Male,18,White,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+1034,AZ01100,Pinal,Sheriff,Pinal,Arizona,1980,July,1,Murder or Manslaughter,No,Male,33,White,Hispanic,Unknown,0,Unknown,Unknown,Acquaintance,Knife,0,0,FBI
+1035,AZ01100,Pinal,Sheriff,Pinal,Arizona,1980,November,1,Murder or Manslaughter,Yes,Male,69,White,Not Hispanic,Male,20,White,Not Hispanic,Stranger,Rifle,0,0,FBI
+1036,AZ01100,Pinal,Sheriff,Pinal,Arizona,1980,November,2,Murder or Manslaughter,No,Male,30,Native American/Alaska Native,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,1,0,FBI
+1037,AZ01100,Pinal,Sheriff,Pinal,Arizona,1980,December,1,Murder or Manslaughter,Yes,Male,34,White,Not Hispanic,Male,0,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+1038,AZ01101,Casa Grande,Municipal Police,Pinal,Arizona,1980,March,1,Murder or Manslaughter,Yes,Female,36,White,Not Hispanic,Male,34,White,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+1039,AZ01101,Casa Grande,Municipal Police,Pinal,Arizona,1980,April,1,Murder or Manslaughter,Yes,Male,17,White,Hispanic,Male,17,White,Hispanic,Acquaintance,Shotgun,0,0,FBI
+1040,AZ01101,Casa Grande,Municipal Police,Pinal,Arizona,1980,August,1,Murder or Manslaughter,Yes,Female,34,White,Hispanic,Male,30,White,Hispanic,Ex-Wife,Handgun,0,0,FBI
+1041,AZ01101,Casa Grande,Municipal Police,Pinal,Arizona,1980,September,1,Murder or Manslaughter,Yes,Male,19,White,Hispanic,Male,17,White,Hispanic,Acquaintance,Shotgun,0,3,FBI
+1042,AZ01101,Casa Grande,Municipal Police,Pinal,Arizona,1980,December,1,Murder or Manslaughter,Yes,Male,23,White,Hispanic,Male,22,White,Not Hispanic,Stranger,Handgun,0,1,FBI
+1043,AZ01103,Coolidge,Municipal Police,Pinal,Arizona,1980,December,1,Murder or Manslaughter,Yes,Female,79,White,Not Hispanic,Male,15,White,Not Hispanic,Acquaintance,Knife,0,0,FBI
+1044,AZ01105,Eloy,Municipal Police,Pinal,Arizona,1980,April,1,Murder or Manslaughter,Yes,Male,25,White,Not Hispanic,Male,29,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+1045,AZ01105,Eloy,Municipal Police,Pinal,Arizona,1980,September,1,Murder or Manslaughter,Yes,Male,22,White,Hispanic,Male,41,White,Not Hispanic,Stranger,Handgun,0,1,FBI
+1046,AZ01201,Nogales,Municipal Police,Santa Cruz,Arizona,1980,May,1,Murder or Manslaughter,No,Male,76,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Strangulation,0,0,FBI
+1047,AZ01300,Yavapai,Sheriff,Yavapai,Arizona,1980,October,1,Murder or Manslaughter,No,Male,28,White,Not Hispanic,Unknown,0,Unknown,Unknown,Acquaintance,Handgun,0,0,FBI
+1048,AZ01301,Clarkdale,Municipal Police,Yavapai,Arizona,1980,December,1,Murder or Manslaughter,Yes,Male,49,White,Hispanic,Male,39,White,Hispanic,In-Law,Handgun,0,0,FBI
+1049,AZ01307,Prescott,Municipal Police,Yavapai,Arizona,1980,July,1,Murder or Manslaughter,Yes,Female,57,Black,Not Hispanic,Male,63,Black,Not Hispanic,Wife,Handgun,0,0,FBI
+1050,AZ01400,Yuma,Sheriff,Yuma,Arizona,1980,January,1,Murder or Manslaughter,Yes,Male,58,White,Not Hispanic,Female,47,White,Not Hispanic,Friend,Handgun,0,1,FBI
+1051,AZ01400,Yuma,Sheriff,Yuma,Arizona,1980,January,2,Murder or Manslaughter,No,Male,28,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1052,AZ01400,Yuma,Sheriff,Yuma,Arizona,1980,January,3,Murder or Manslaughter,Yes,Male,18,White,Hispanic,Male,18,White,Hispanic,Friend,Handgun,0,1,FBI
+1053,AZ01400,Yuma,Sheriff,Yuma,Arizona,1980,March,1,Murder or Manslaughter,No,Unknown,998,Unknown,Unknown,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+1054,AZ01400,Yuma,Sheriff,Yuma,Arizona,1980,April,1,Murder or Manslaughter,Yes,Male,47,White,Hispanic,Male,56,White,Hispanic,Acquaintance,Knife,0,0,FBI
+1055,AZ01400,Yuma,Sheriff,Yuma,Arizona,1980,June,1,Murder or Manslaughter,Yes,Male,61,White,Not Hispanic,Male,21,White,Not Hispanic,Acquaintance,Strangulation,0,1,FBI
+1056,AZ01400,Yuma,Sheriff,Yuma,Arizona,1980,August,1,Murder or Manslaughter,Yes,Male,18,Black,Not Hispanic,Female,18,Black,Not Hispanic,Boyfriend,Knife,0,0,FBI
+1057,AZ01400,Yuma,Sheriff,Yuma,Arizona,1980,August,2,Murder or Manslaughter,Yes,Male,23,White,Not Hispanic,Male,51,White,Not Hispanic,Acquaintance,Rifle,0,0,FBI
+1058,AZ01400,Yuma,Sheriff,Yuma,Arizona,1980,August,3,Murder or Manslaughter,Yes,Male,17,White,Hispanic,Male,21,White,Hispanic,Friend,Blunt Object,0,0,FBI
+1059,AZ01400,Yuma,Sheriff,Yuma,Arizona,1980,September,1,Murder or Manslaughter,Yes,Female,54,White,Not Hispanic,Male,52,White,Not Hispanic,Wife,Handgun,0,0,FBI
+1060,AZ01400,Yuma,Sheriff,Yuma,Arizona,1980,October,1,Murder or Manslaughter,Yes,Male,45,White,Hispanic,Female,23,White,Hispanic,Common-Law Husband,Handgun,0,0,FBI
+1061,AZ01400,Yuma,Sheriff,Yuma,Arizona,1980,October,2,Murder or Manslaughter,Yes,Male,51,White,Not Hispanic,Female,52,White,Not Hispanic,Husband,Handgun,0,0,FBI
+1062,AZ01400,Yuma,Sheriff,Yuma,Arizona,1980,November,1,Murder or Manslaughter,No,Female,21,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+1063,AZ01403,Somerton,Municipal Police,Yuma,Arizona,1980,September,1,Murder or Manslaughter,Yes,Male,24,White,Hispanic,Male,20,White,Hispanic,Brother,Strangulation,0,0,FBI
+1064,AZ01403,Somerton,Municipal Police,Yuma,Arizona,1980,November,1,Murder or Manslaughter,Yes,Female,32,White,Hispanic,Male,27,White,Hispanic,Wife,Handgun,0,0,FBI
+1065,AZ01405,Yuma,Municipal Police,Yuma,Arizona,1980,January,1,Murder or Manslaughter,Yes,Male,36,White,Hispanic,Male,51,White,Hispanic,Acquaintance,Blunt Object,0,0,FBI
+1066,AZ01405,Yuma,Municipal Police,Yuma,Arizona,1980,February,1,Murder or Manslaughter,Yes,Female,0,White,Not Hispanic,Female,19,White,Not Hispanic,Daughter,Blunt Object,0,0,FBI
+1067,AZ01405,Yuma,Municipal Police,Yuma,Arizona,1980,June,1,Murder or Manslaughter,Yes,Male,54,White,Hispanic,Male,75,White,Not Hispanic,Friend,Handgun,0,0,FBI
+1068,CA00100,Alameda,Sheriff,Alameda,California,1980,April,1,Murder or Manslaughter,No,Female,21,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Knife,0,1,FBI
+1069,CA00100,Alameda,Sheriff,Alameda,California,1980,August,1,Murder or Manslaughter,Yes,Male,17,White,Not Hispanic,Male,39,White,Not Hispanic,Son,Handgun,0,0,FBI
+1070,CA00100,Alameda,Sheriff,Alameda,California,1980,October,1,Murder or Manslaughter,No,Male,56,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Fire,0,1,FBI
+1071,CA00100,Alameda,Sheriff,Alameda,California,1980,November,1,Murder or Manslaughter,No,Female,43,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+1072,CA00100,Alameda,Sheriff,Alameda,California,1980,November,2,Murder or Manslaughter,No,Male,31,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+1073,CA00101,Alameda,Municipal Police,Alameda,California,1980,May,1,Murder or Manslaughter,Yes,Female,58,White,Unknown,Male,50,White,Unknown,In-Law,Handgun,1,0,FBI
+1074,CA00101,Alameda,Municipal Police,Alameda,California,1980,February,1,Murder or Manslaughter,Yes,Male,29,White,Unknown,Female,36,White,Unknown,Stranger,Rifle,0,0,FBI
+1075,CA00101,Alameda,Municipal Police,Alameda,California,1980,May,1,Murder or Manslaughter,Yes,Female,52,White,Unknown,Male,50,White,Unknown,In-Law,Handgun,1,0,FBI
+1076,CA00102,Albany,Municipal Police,Alameda,California,1980,February,1,Murder or Manslaughter,Yes,Male,26,Black,Unknown,Male,0,Unknown,Unknown,Stranger,Handgun,0,0,FBI
+1077,CA00103,Berkeley,Municipal Police,Alameda,California,1980,February,1,Murder or Manslaughter,No,Male,51,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Firearm,2,0,FBI
+1078,CA00103,Berkeley,Municipal Police,Alameda,California,1980,February,1,Murder or Manslaughter,No,Female,40,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Firearm,2,0,FBI
+1079,CA00103,Berkeley,Municipal Police,Alameda,California,1980,February,1,Murder or Manslaughter,No,Female,16,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Firearm,2,0,FBI
+1080,CA00103,Berkeley,Municipal Police,Alameda,California,1980,April,1,Murder or Manslaughter,Yes,Male,39,Black,Unknown,Male,46,Black,Unknown,Unknown,Handgun,0,0,FBI
+1081,CA00103,Berkeley,Municipal Police,Alameda,California,1980,April,2,Murder or Manslaughter,Yes,Male,34,White,Unknown,Male,26,White,Unknown,Unknown,Handgun,0,0,FBI
+1082,CA00103,Berkeley,Municipal Police,Alameda,California,1980,May,1,Murder or Manslaughter,No,Male,30,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+1083,CA00103,Berkeley,Municipal Police,Alameda,California,1980,May,2,Murder or Manslaughter,Yes,Male,25,Black,Unknown,Female,30,White,Unknown,Unknown,Handgun,0,0,FBI
+1084,CA00103,Berkeley,Municipal Police,Alameda,California,1980,May,3,Murder or Manslaughter,No,Female,30,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1085,CA00103,Berkeley,Municipal Police,Alameda,California,1980,August,1,Murder or Manslaughter,Yes,Male,25,Black,Not Hispanic,Male,10,Black,Not Hispanic,Unknown,Handgun,0,0,FBI
+1086,CA00103,Berkeley,Municipal Police,Alameda,California,1980,September,1,Murder or Manslaughter,Yes,Male,35,White,Not Hispanic,Male,30,White,Hispanic,Stranger,Handgun,0,0,FBI
+1087,CA00103,Berkeley,Municipal Police,Alameda,California,1980,October,1,Murder or Manslaughter,Yes,Male,15,Black,Not Hispanic,Male,14,Black,Not Hispanic,Unknown,Knife,0,0,FBI
+1088,CA00105,Fremont,Municipal Police,Alameda,California,1980,January,1,Murder or Manslaughter,Yes,Male,29,White,Unknown,Male,24,White,Unknown,Stranger,Handgun,0,1,FBI
+1089,CA00105,Fremont,Municipal Police,Alameda,California,1980,October,1,Murder or Manslaughter,Yes,Female,35,White,Hispanic,Male,39,White,Hispanic,Wife,Handgun,0,0,FBI
+1090,CA00105,Fremont,Municipal Police,Alameda,California,1980,October,2,Murder or Manslaughter,Yes,Female,2,Black,Not Hispanic,Male,24,Black,Not Hispanic,Daughter,Blunt Object,0,0,FBI
+1091,CA00105,Fremont,Municipal Police,Alameda,California,1980,December,1,Manslaughter by Negligence,Yes,Male,56,White,Not Hispanic,Male,20,White,Hispanic,Unknown,Blunt Object,0,0,FBI
+1092,CA00106,Hayward,Municipal Police,Alameda,California,1980,April,1,Murder or Manslaughter,Yes,Male,27,White,Unknown,Male,32,White,Unknown,Acquaintance,Shotgun,0,1,FBI
+1093,CA00106,Hayward,Municipal Police,Alameda,California,1980,August,1,Murder or Manslaughter,Yes,Female,28,White,Not Hispanic,Male,46,White,Not Hispanic,Girlfriend,Unknown,0,0,FBI
+1094,CA00106,Hayward,Municipal Police,Alameda,California,1980,September,1,Murder or Manslaughter,No,Male,59,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1095,CA00106,Hayward,Municipal Police,Alameda,California,1980,September,2,Murder or Manslaughter,Yes,Female,33,Black,Not Hispanic,Male,37,Black,Not Hispanic,Girlfriend,Handgun,0,0,FBI
+1096,CA00106,Hayward,Municipal Police,Alameda,California,1980,November,1,Murder or Manslaughter,Yes,Male,18,White,Not Hispanic,Male,20,White,Not Hispanic,Acquaintance,Knife,0,3,FBI
+1097,CA00108,Newark,Municipal Police,Alameda,California,1980,April,1,Murder or Manslaughter,No,Male,25,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,1,0,FBI
+1098,CA00108,Newark,Municipal Police,Alameda,California,1980,April,1,Murder or Manslaughter,No,Male,25,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,1,0,FBI
+1099,CA00108,Newark,Municipal Police,Alameda,California,1980,May,1,Murder or Manslaughter,Yes,Male,19,Black,Unknown,Male,31,Black,Unknown,Stranger,Handgun,0,0,FBI
+1100,CA00108,Newark,Municipal Police,Alameda,California,1980,August,1,Murder or Manslaughter,Yes,Male,21,White,Not Hispanic,Male,22,White,Hispanic,Unknown,Knife,0,3,FBI
+1101,CA00108,Newark,Municipal Police,Alameda,California,1980,September,1,Murder or Manslaughter,Yes,Male,18,White,Not Hispanic,Male,20,White,Hispanic,Unknown,Rifle,0,2,FBI
+1102,CA00109,Oakland,Municipal Police,Alameda,California,1980,August,17,Murder or Manslaughter,No,Male,25,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,2,0,FBI
+1103,CA00109,Oakland,Municipal Police,Alameda,California,1980,August,17,Murder or Manslaughter,No,Female,21,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,2,0,FBI
+1104,CA00109,Oakland,Municipal Police,Alameda,California,1980,November,6,Murder or Manslaughter,No,Male,44,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,1,1,FBI
+1105,CA00109,Oakland,Municipal Police,Alameda,California,1980,November,12,Murder or Manslaughter,Yes,Male,26,Black,Not Hispanic,Male,30,Black,Not Hispanic,Unknown,Handgun,1,2,FBI
+1106,CA00109,Oakland,Municipal Police,Alameda,California,1980,January,1,Murder or Manslaughter,Yes,Male,26,Black,Unknown,Male,54,White,Unknown,Stranger,Knife,0,1,FBI
+1107,CA00109,Oakland,Municipal Police,Alameda,California,1980,January,2,Murder or Manslaughter,No,Female,33,Black,Unknown,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+1108,CA00109,Oakland,Municipal Police,Alameda,California,1980,January,3,Murder or Manslaughter,No,Male,51,Black,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1109,CA00109,Oakland,Municipal Police,Alameda,California,1980,January,4,Murder or Manslaughter,No,Female,29,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+1110,CA00109,Oakland,Municipal Police,Alameda,California,1980,January,5,Murder or Manslaughter,No,Female,78,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+1111,CA00109,Oakland,Municipal Police,Alameda,California,1980,January,6,Murder or Manslaughter,No,Male,34,Black,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1112,CA00109,Oakland,Municipal Police,Alameda,California,1980,January,7,Murder or Manslaughter,Yes,Female,44,Black,Unknown,Male,37,Black,Unknown,Unknown,Handgun,0,0,FBI
+1113,CA00109,Oakland,Municipal Police,Alameda,California,1980,January,8,Murder or Manslaughter,Yes,Female,29,Black,Unknown,Male,32,Black,Unknown,Wife,Shotgun,0,0,FBI
+1114,CA00109,Oakland,Municipal Police,Alameda,California,1980,January,9,Murder or Manslaughter,Yes,Male,21,White,Unknown,Male,28,Black,Unknown,Unknown,Unknown,0,0,FBI
+1115,CA00109,Oakland,Municipal Police,Alameda,California,1980,January,10,Murder or Manslaughter,No,Male,86,Black,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1116,CA00109,Oakland,Municipal Police,Alameda,California,1980,January,11,Murder or Manslaughter,Yes,Male,37,Black,Unknown,Male,26,Unknown,Unknown,Stranger,Handgun,0,0,FBI
+1117,CA00109,Oakland,Municipal Police,Alameda,California,1980,January,12,Murder or Manslaughter,Yes,Male,55,White,Unknown,Female,36,White,Unknown,Unknown,Knife,0,0,FBI
+1118,CA00109,Oakland,Municipal Police,Alameda,California,1980,February,1,Murder or Manslaughter,Yes,Male,23,Black,Unknown,Male,15,Black,Unknown,Unknown,Blunt Object,0,2,FBI
+1119,CA00109,Oakland,Municipal Police,Alameda,California,1980,February,2,Murder or Manslaughter,No,Male,32,Black,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1120,CA00109,Oakland,Municipal Police,Alameda,California,1980,February,3,Murder or Manslaughter,Yes,Female,31,Black,Unknown,Female,32,Black,Unknown,Sister,Strangulation,0,0,FBI
+1121,CA00109,Oakland,Municipal Police,Alameda,California,1980,February,4,Murder or Manslaughter,No,Male,58,Black,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1122,CA00109,Oakland,Municipal Police,Alameda,California,1980,February,5,Murder or Manslaughter,No,Male,51,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+1123,CA00109,Oakland,Municipal Police,Alameda,California,1980,February,6,Murder or Manslaughter,Yes,Male,16,Black,Unknown,Male,17,Black,Unknown,Unknown,Handgun,0,0,FBI
+1124,CA00109,Oakland,Municipal Police,Alameda,California,1980,March,1,Murder or Manslaughter,Yes,Male,31,Black,Unknown,Male,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1125,CA00109,Oakland,Municipal Police,Alameda,California,1980,March,2,Murder or Manslaughter,Yes,Male,0,Black,Unknown,Male,25,Black,Unknown,Family,Knife,0,0,FBI
+1126,CA00109,Oakland,Municipal Police,Alameda,California,1980,March,3,Murder or Manslaughter,No,Male,26,Black,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1127,CA00109,Oakland,Municipal Police,Alameda,California,1980,March,4,Murder or Manslaughter,Yes,Male,18,Black,Unknown,Male,14,Black,Unknown,Acquaintance,Handgun,0,0,FBI
+1128,CA00109,Oakland,Municipal Police,Alameda,California,1980,March,5,Murder or Manslaughter,Yes,Male,34,White,Unknown,Male,19,White,Unknown,Unknown,Knife,0,0,FBI
+1129,CA00109,Oakland,Municipal Police,Alameda,California,1980,March,6,Murder or Manslaughter,No,Female,69,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+1130,CA00109,Oakland,Municipal Police,Alameda,California,1980,March,7,Murder or Manslaughter,Yes,Male,21,Black,Unknown,Male,22,Black,Unknown,Unknown,Handgun,0,0,FBI
+1131,CA00109,Oakland,Municipal Police,Alameda,California,1980,March,8,Murder or Manslaughter,Yes,Male,42,Black,Unknown,Female,29,Black,Unknown,Unknown,Handgun,0,1,FBI
+1132,CA00109,Oakland,Municipal Police,Alameda,California,1980,March,9,Murder or Manslaughter,Yes,Female,26,Black,Unknown,Female,24,Black,Unknown,Unknown,Handgun,0,0,FBI
+1133,CA00109,Oakland,Municipal Police,Alameda,California,1980,March,10,Murder or Manslaughter,No,Male,32,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+1134,CA00109,Oakland,Municipal Police,Alameda,California,1980,March,11,Murder or Manslaughter,Yes,Male,65,Black,Unknown,Male,14,Black,Unknown,Father,Knife,0,0,FBI
+1135,CA00109,Oakland,Municipal Police,Alameda,California,1980,March,12,Murder or Manslaughter,No,Female,32,Black,Unknown,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+1136,CA00109,Oakland,Municipal Police,Alameda,California,1980,March,13,Murder or Manslaughter,Yes,Male,60,Black,Unknown,Male,20,Black,Unknown,Unknown,Knife,0,0,FBI
+1137,CA00109,Oakland,Municipal Police,Alameda,California,1980,March,14,Murder or Manslaughter,Yes,Female,22,Black,Unknown,Male,21,Black,Unknown,Girlfriend,Handgun,0,0,FBI
+1138,CA00109,Oakland,Municipal Police,Alameda,California,1980,April,1,Murder or Manslaughter,No,Male,27,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+1139,CA00109,Oakland,Municipal Police,Alameda,California,1980,April,2,Murder or Manslaughter,Yes,Male,32,White,Unknown,Male,28,White,Unknown,Unknown,Blunt Object,0,0,FBI
+1140,CA00109,Oakland,Municipal Police,Alameda,California,1980,April,3,Murder or Manslaughter,Yes,Male,57,Black,Unknown,Female,37,Black,Unknown,Common-Law Husband,Knife,0,1,FBI
+1141,CA00109,Oakland,Municipal Police,Alameda,California,1980,April,4,Murder or Manslaughter,Yes,Male,21,Black,Unknown,Male,19,Black,Unknown,Unknown,Handgun,0,0,FBI
+1142,CA00109,Oakland,Municipal Police,Alameda,California,1980,April,5,Murder or Manslaughter,Yes,Male,37,Black,Unknown,Male,24,Black,Unknown,Unknown,Handgun,0,0,FBI
+1143,CA00109,Oakland,Municipal Police,Alameda,California,1980,April,6,Murder or Manslaughter,Yes,Female,81,Asian/Pacific Islander,Not Hispanic,Male,16,Black,Unknown,Stranger,Strangulation,0,1,FBI
+1144,CA00109,Oakland,Municipal Police,Alameda,California,1980,April,7,Murder or Manslaughter,Yes,Male,35,White,Unknown,Male,22,White,Unknown,Unknown,Drowning,0,0,FBI
+1145,CA00109,Oakland,Municipal Police,Alameda,California,1980,May,1,Murder or Manslaughter,Yes,Male,23,Black,Not Hispanic,Male,26,Black,Not Hispanic,Unknown,Blunt Object,0,0,FBI
+1146,CA00109,Oakland,Municipal Police,Alameda,California,1980,May,2,Murder or Manslaughter,Yes,Male,50,Black,Not Hispanic,Female,44,Black,Not Hispanic,Boyfriend,Knife,0,0,FBI
+1147,CA00109,Oakland,Municipal Police,Alameda,California,1980,May,3,Murder or Manslaughter,Yes,Male,33,Black,Not Hispanic,Male,56,Black,Not Hispanic,Unknown,Shotgun,0,0,FBI
+1148,CA00109,Oakland,Municipal Police,Alameda,California,1980,May,4,Murder or Manslaughter,Yes,Male,53,White,Not Hispanic,Female,18,White,Not Hispanic,Stranger,Knife,0,0,FBI
+1149,CA00109,Oakland,Municipal Police,Alameda,California,1980,May,5,Murder or Manslaughter,No,Male,27,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1150,CA00109,Oakland,Municipal Police,Alameda,California,1980,May,6,Murder or Manslaughter,Yes,Male,20,Black,Not Hispanic,Male,32,Black,Not Hispanic,Stranger,Handgun,0,0,FBI
+1151,CA00109,Oakland,Municipal Police,Alameda,California,1980,May,7,Murder or Manslaughter,Yes,Male,32,Black,Not Hispanic,Male,20,Black,Not Hispanic,Unknown,Handgun,0,0,FBI
+1152,CA00109,Oakland,Municipal Police,Alameda,California,1980,May,8,Murder or Manslaughter,Yes,Male,40,White,Not Hispanic,Male,22,White,Not Hispanic,Boyfriend/Girlfriend,Knife,0,0,FBI
+1153,CA00109,Oakland,Municipal Police,Alameda,California,1980,June,1,Murder or Manslaughter,No,Male,36,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1154,CA00109,Oakland,Municipal Police,Alameda,California,1980,June,2,Murder or Manslaughter,Yes,Male,43,Black,Not Hispanic,Male,28,Black,Not Hispanic,Unknown,Shotgun,0,0,FBI
+1155,CA00109,Oakland,Municipal Police,Alameda,California,1980,June,3,Murder or Manslaughter,Yes,Male,30,Black,Not Hispanic,Female,28,Black,Not Hispanic,Boyfriend,Handgun,0,0,FBI
+1156,CA00109,Oakland,Municipal Police,Alameda,California,1980,June,4,Murder or Manslaughter,Yes,Male,17,Black,Not Hispanic,Male,17,Black,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+1157,CA00109,Oakland,Municipal Police,Alameda,California,1980,June,5,Murder or Manslaughter,Yes,Male,20,White,Hispanic,Male,20,White,Hispanic,Unknown,Rifle,0,8,FBI
+1158,CA00109,Oakland,Municipal Police,Alameda,California,1980,June,6,Murder or Manslaughter,No,Male,17,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1159,CA00109,Oakland,Municipal Police,Alameda,California,1980,June,7,Murder or Manslaughter,Yes,Male,16,Black,Not Hispanic,Male,18,Black,Not Hispanic,Unknown,Knife,0,0,FBI
+1160,CA00109,Oakland,Municipal Police,Alameda,California,1980,June,8,Murder or Manslaughter,No,Male,40,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+1161,CA00109,Oakland,Municipal Police,Alameda,California,1980,June,9,Murder or Manslaughter,Yes,Male,71,Black,Not Hispanic,Male,19,Black,Not Hispanic,Acquaintance,Knife,0,0,FBI
+1162,CA00109,Oakland,Municipal Police,Alameda,California,1980,June,10,Murder or Manslaughter,Yes,Female,38,Black,Not Hispanic,Male,40,Black,Not Hispanic,Girlfriend,Knife,0,0,FBI
+1163,CA00109,Oakland,Municipal Police,Alameda,California,1980,July,1,Murder or Manslaughter,Yes,Male,32,White,Not Hispanic,Male,29,Black,Not Hispanic,Unknown,Knife,0,1,FBI
+1164,CA00109,Oakland,Municipal Police,Alameda,California,1980,July,3,Murder or Manslaughter,No,Male,31,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+1165,CA00109,Oakland,Municipal Police,Alameda,California,1980,July,4,Murder or Manslaughter,Yes,Female,22,Black,Not Hispanic,Male,20,Black,Not Hispanic,Unknown,Handgun,0,2,FBI
+1166,CA00109,Oakland,Municipal Police,Alameda,California,1980,July,5,Murder or Manslaughter,Yes,Male,32,Black,Not Hispanic,Male,39,Black,Not Hispanic,Unknown,Handgun,0,0,FBI
+1167,CA00109,Oakland,Municipal Police,Alameda,California,1980,July,6,Murder or Manslaughter,No,Male,25,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+1168,CA00109,Oakland,Municipal Police,Alameda,California,1980,July,7,Murder or Manslaughter,Yes,Male,28,Black,Not Hispanic,Male,60,Black,Not Hispanic,Unknown,Handgun,0,0,FBI
+1169,CA00109,Oakland,Municipal Police,Alameda,California,1980,July,8,Murder or Manslaughter,Yes,Male,58,White,Not Hispanic,Male,21,White,Not Hispanic,Unknown,Shotgun,0,2,FBI
+1170,CA00109,Oakland,Municipal Police,Alameda,California,1980,July,9,Murder or Manslaughter,Yes,Male,35,Black,Not Hispanic,Male,18,Black,Not Hispanic,Unknown,Handgun,0,0,FBI
+1171,CA00109,Oakland,Municipal Police,Alameda,California,1980,July,10,Murder or Manslaughter,No,Female,21,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,1,FBI
+1172,CA00109,Oakland,Municipal Police,Alameda,California,1980,July,11,Murder or Manslaughter,Yes,Female,28,Black,Not Hispanic,Male,36,Black,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+1173,CA00109,Oakland,Municipal Police,Alameda,California,1980,August,1,Murder or Manslaughter,Yes,Male,31,Black,Not Hispanic,Male,38,Black,Not Hispanic,Unknown,Handgun,0,0,FBI
+1174,CA00109,Oakland,Municipal Police,Alameda,California,1980,August,2,Murder or Manslaughter,Yes,Male,38,Black,Not Hispanic,Male,31,Black,Not Hispanic,Unknown,Handgun,0,0,FBI
+1175,CA00109,Oakland,Municipal Police,Alameda,California,1980,August,3,Murder or Manslaughter,No,Male,38,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+1176,CA00109,Oakland,Municipal Police,Alameda,California,1980,August,4,Murder or Manslaughter,No,Female,19,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1177,CA00109,Oakland,Municipal Police,Alameda,California,1980,August,5,Murder or Manslaughter,Yes,Male,77,White,Not Hispanic,Male,39,Unknown,Unknown,Unknown,Strangulation,0,0,FBI
+1178,CA00109,Oakland,Municipal Police,Alameda,California,1980,August,6,Murder or Manslaughter,Yes,Male,16,White,Not Hispanic,Male,16,White,Not Hispanic,Unknown,Shotgun,0,0,FBI
+1179,CA00109,Oakland,Municipal Police,Alameda,California,1980,August,7,Murder or Manslaughter,Yes,Male,21,Black,Not Hispanic,Male,22,Black,Not Hispanic,Unknown,Knife,0,0,FBI
+1180,CA00109,Oakland,Municipal Police,Alameda,California,1980,August,8,Murder or Manslaughter,Yes,Male,5,Black,Not Hispanic,Male,11,Black,Not Hispanic,Unknown,Strangulation,0,0,FBI
+1181,CA00109,Oakland,Municipal Police,Alameda,California,1980,August,9,Murder or Manslaughter,No,Female,50,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+1182,CA00109,Oakland,Municipal Police,Alameda,California,1980,August,10,Murder or Manslaughter,No,Female,66,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+1183,CA00109,Oakland,Municipal Police,Alameda,California,1980,August,11,Murder or Manslaughter,No,Male,83,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+1184,CA00109,Oakland,Municipal Police,Alameda,California,1980,August,12,Murder or Manslaughter,No,Male,27,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1185,CA00109,Oakland,Municipal Police,Alameda,California,1980,August,13,Murder or Manslaughter,Yes,Female,24,Black,Not Hispanic,Male,25,Black,Not Hispanic,Unknown,Knife,0,0,FBI
+1186,CA00109,Oakland,Municipal Police,Alameda,California,1980,August,14,Murder or Manslaughter,Yes,Female,29,White,Not Hispanic,Male,32,White,Not Hispanic,Unknown,Handgun,0,0,FBI
+1187,CA00109,Oakland,Municipal Police,Alameda,California,1980,August,15,Murder or Manslaughter,Yes,Male,21,Black,Not Hispanic,Male,23,Black,Not Hispanic,Unknown,Handgun,0,0,FBI
+1188,CA00109,Oakland,Municipal Police,Alameda,California,1980,August,16,Murder or Manslaughter,No,Female,32,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1189,CA00109,Oakland,Municipal Police,Alameda,California,1980,August,17,Murder or Manslaughter,No,Male,17,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,2,0,FBI
+1190,CA00109,Oakland,Municipal Police,Alameda,California,1980,September,1,Murder or Manslaughter,Yes,Male,35,Black,Not Hispanic,Male,35,Unknown,Unknown,Stranger,Handgun,0,0,FBI
+1191,CA00109,Oakland,Municipal Police,Alameda,California,1980,September,2,Murder or Manslaughter,Yes,Male,19,Black,Not Hispanic,Female,24,Black,Not Hispanic,Acquaintance,Handgun,0,1,FBI
+1192,CA00109,Oakland,Municipal Police,Alameda,California,1980,September,3,Murder or Manslaughter,Yes,Female,55,Black,Not Hispanic,Male,50,Black,Not Hispanic,Acquaintance,Knife,0,0,FBI
+1193,CA00109,Oakland,Municipal Police,Alameda,California,1980,September,4,Murder or Manslaughter,Yes,Male,18,Black,Not Hispanic,Male,28,Black,Not Hispanic,Unknown,Handgun,0,0,FBI
+1194,CA00109,Oakland,Municipal Police,Alameda,California,1980,September,5,Murder or Manslaughter,Yes,Male,20,Black,Not Hispanic,Male,31,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+1195,CA00109,Oakland,Municipal Police,Alameda,California,1980,September,6,Murder or Manslaughter,No,Male,65,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+1196,CA00109,Oakland,Municipal Police,Alameda,California,1980,September,7,Murder or Manslaughter,Yes,Male,30,Black,Not Hispanic,Male,24,Black,Not Hispanic,Acquaintance,Rifle,0,0,FBI
+1197,CA00109,Oakland,Municipal Police,Alameda,California,1980,September,8,Murder or Manslaughter,No,Male,49,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+1198,CA00109,Oakland,Municipal Police,Alameda,California,1980,September,9,Murder or Manslaughter,Yes,Male,27,Black,Not Hispanic,Male,28,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+1199,CA00109,Oakland,Municipal Police,Alameda,California,1980,September,10,Murder or Manslaughter,No,Male,42,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+1200,CA00109,Oakland,Municipal Police,Alameda,California,1980,September,11,Murder or Manslaughter,No,Male,31,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+1201,CA00109,Oakland,Municipal Police,Alameda,California,1980,September,12,Murder or Manslaughter,Yes,Male,23,Black,Not Hispanic,Male,31,Black,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+1202,CA00109,Oakland,Municipal Police,Alameda,California,1980,September,13,Murder or Manslaughter,No,Female,81,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+1203,CA00109,Oakland,Municipal Police,Alameda,California,1980,September,14,Murder or Manslaughter,Yes,Male,33,Black,Not Hispanic,Male,17,Black,Not Hispanic,Unknown,Handgun,0,0,FBI
+1204,CA00109,Oakland,Municipal Police,Alameda,California,1980,September,15,Murder or Manslaughter,Yes,Male,30,Black,Not Hispanic,Male,41,White,Not Hispanic,Unknown,Handgun,0,0,FBI
+1205,CA00109,Oakland,Municipal Police,Alameda,California,1980,October,1,Murder or Manslaughter,Yes,Male,25,Black,Not Hispanic,Male,25,Black,Not Hispanic,Unknown,Blunt Object,0,0,FBI
+1206,CA00109,Oakland,Municipal Police,Alameda,California,1980,October,2,Murder or Manslaughter,No,Male,33,Unknown,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1207,CA00109,Oakland,Municipal Police,Alameda,California,1980,October,3,Murder or Manslaughter,Yes,Male,20,White,Not Hispanic,Female,17,White,Not Hispanic,Boyfriend,Shotgun,0,0,FBI
+1208,CA00109,Oakland,Municipal Police,Alameda,California,1980,October,4,Murder or Manslaughter,No,Male,32,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1209,CA00109,Oakland,Municipal Police,Alameda,California,1980,October,5,Murder or Manslaughter,Yes,Female,16,White,Not Hispanic,Male,18,Black,Not Hispanic,Girlfriend,Handgun,0,0,FBI
+1210,CA00109,Oakland,Municipal Police,Alameda,California,1980,October,6,Manslaughter by Negligence,Yes,Female,31,Black,Not Hispanic,Male,32,Black,Not Hispanic,Acquaintance,Shotgun,0,0,FBI
+1211,CA00109,Oakland,Municipal Police,Alameda,California,1980,November,1,Murder or Manslaughter,No,Male,36,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+1212,CA00109,Oakland,Municipal Police,Alameda,California,1980,November,2,Murder or Manslaughter,Yes,Male,26,Black,Not Hispanic,Male,19,Black,Not Hispanic,Unknown,Handgun,0,0,FBI
+1213,CA00109,Oakland,Municipal Police,Alameda,California,1980,November,3,Murder or Manslaughter,Yes,Male,32,White,Not Hispanic,Male,27,White,Not Hispanic,Unknown,Handgun,0,0,FBI
+1214,CA00109,Oakland,Municipal Police,Alameda,California,1980,November,4,Murder or Manslaughter,Yes,Male,28,Black,Not Hispanic,Female,32,Black,Not Hispanic,Unknown,Handgun,0,0,FBI
+1215,CA00109,Oakland,Municipal Police,Alameda,California,1980,November,5,Murder or Manslaughter,Yes,Male,19,Unknown,Not Hispanic,Male,20,Black,Not Hispanic,Unknown,Handgun,0,2,FBI
+1216,CA00109,Oakland,Municipal Police,Alameda,California,1980,November,6,Murder or Manslaughter,No,Female,27,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,1,1,FBI
+1217,CA00109,Oakland,Municipal Police,Alameda,California,1980,November,7,Murder or Manslaughter,Yes,Female,42,Black,Not Hispanic,Male,35,Black,Not Hispanic,Acquaintance,Knife,0,0,FBI
+1218,CA00109,Oakland,Municipal Police,Alameda,California,1980,November,8,Murder or Manslaughter,No,Female,76,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+1219,CA00109,Oakland,Municipal Police,Alameda,California,1980,November,9,Murder or Manslaughter,Yes,Female,79,White,Not Hispanic,Male,25,White,Not Hispanic,Unknown,Unknown,0,0,FBI
+1220,CA00109,Oakland,Municipal Police,Alameda,California,1980,November,10,Murder or Manslaughter,No,Male,25,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1221,CA00109,Oakland,Municipal Police,Alameda,California,1980,November,11,Murder or Manslaughter,No,Male,32,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1222,CA00109,Oakland,Municipal Police,Alameda,California,1980,November,12,Murder or Manslaughter,Yes,Female,24,Black,Not Hispanic,Male,30,Black,Not Hispanic,Unknown,Handgun,1,2,FBI
+1223,CA00109,Oakland,Municipal Police,Alameda,California,1980,November,13,Murder or Manslaughter,Yes,Male,29,Black,Not Hispanic,Male,29,Black,Not Hispanic,Unknown,Handgun,0,0,FBI
+1224,CA00109,Oakland,Municipal Police,Alameda,California,1980,December,1,Murder or Manslaughter,Yes,Male,87,Black,Not Hispanic,Female,19,Black,Not Hispanic,Unknown,Blunt Object,0,2,FBI
+1225,CA00109,Oakland,Municipal Police,Alameda,California,1980,December,2,Murder or Manslaughter,No,Male,22,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1226,CA00109,Oakland,Municipal Police,Alameda,California,1980,December,3,Murder or Manslaughter,Yes,Male,30,Black,Not Hispanic,Male,29,White,Not Hispanic,Unknown,Blunt Object,0,0,FBI
+1227,CA00109,Oakland,Municipal Police,Alameda,California,1980,December,4,Murder or Manslaughter,No,Male,30,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+1228,CA00109,Oakland,Municipal Police,Alameda,California,1980,December,5,Murder or Manslaughter,Yes,Male,37,Black,Not Hispanic,Male,40,Black,Not Hispanic,Unknown,Handgun,0,0,FBI
+1229,CA00109,Oakland,Municipal Police,Alameda,California,1980,December,6,Murder or Manslaughter,Yes,Male,38,Black,Not Hispanic,Male,31,Black,Not Hispanic,Acquaintance,Knife,0,0,FBI
+1230,CA00109,Oakland,Municipal Police,Alameda,California,1980,December,7,Murder or Manslaughter,Yes,Male,53,Black,Not Hispanic,Female,45,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+1231,CA00109,Oakland,Municipal Police,Alameda,California,1980,December,8,Murder or Manslaughter,Yes,Female,72,White,Not Hispanic,Male,25,White,Not Hispanic,Unknown,Unknown,0,0,FBI
+1232,CA00109,Oakland,Municipal Police,Alameda,California,1980,December,9,Murder or Manslaughter,Yes,Male,21,Black,Not Hispanic,Male,22,Black,Not Hispanic,Unknown,Rifle,0,2,FBI
+1233,CA00109,Oakland,Municipal Police,Alameda,California,1980,December,10,Murder or Manslaughter,Yes,Male,34,Black,Not Hispanic,Male,19,Black,Not Hispanic,Unknown,Handgun,0,0,FBI
+1234,CA00109,Oakland,Municipal Police,Alameda,California,1980,December,11,Murder or Manslaughter,Yes,Female,27,White,Not Hispanic,Male,45,White,Not Hispanic,Wife,Knife,0,0,FBI
+1235,CA00109,Oakland,Municipal Police,Alameda,California,1980,December,12,Murder or Manslaughter,No,Male,21,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+1236,CA00109,Oakland,Municipal Police,Alameda,California,1980,December,13,Murder or Manslaughter,Yes,Male,33,Black,Not Hispanic,Female,32,Black,Not Hispanic,Husband,Handgun,0,0,FBI
+1237,CA00109,Oakland,Municipal Police,Alameda,California,1980,December,14,Murder or Manslaughter,Yes,Male,28,Black,Not Hispanic,Male,0,Unknown,Unknown,Stranger,Shotgun,0,0,FBI
+1238,CA00109,Oakland,Municipal Police,Alameda,California,1980,December,15,Murder or Manslaughter,Yes,Male,22,Black,Not Hispanic,Male,27,Black,Not Hispanic,Acquaintance,Knife,0,0,FBI
+1239,CA00109,Oakland,Municipal Police,Alameda,California,1980,December,16,Murder or Manslaughter,Yes,Male,23,Black,Not Hispanic,Male,19,Black,Not Hispanic,Stranger,Handgun,0,0,FBI
+1240,CA00109,Oakland,Municipal Police,Alameda,California,1980,December,17,Murder or Manslaughter,Yes,Male,15,White,Not Hispanic,Male,17,White,Not Hispanic,Acquaintance,Rifle,0,0,FBI
+1241,CA00109,Oakland,Municipal Police,Alameda,California,1980,December,18,Murder or Manslaughter,Yes,Male,70,Black,Not Hispanic,Female,25,Black,Not Hispanic,Acquaintance,Blunt Object,0,1,FBI
+1242,CA00111,Pleasanton,Municipal Police,Alameda,California,1980,April,1,Murder or Manslaughter,Yes,Male,29,Black,Unknown,Male,30,White,Unknown,Stranger,Firearm,0,0,FBI
+1243,CA00112,San Leandro,Municipal Police,Alameda,California,1980,October,1,Murder or Manslaughter,Yes,Male,16,White,Not Hispanic,Male,17,White,Not Hispanic,Unknown,Knife,0,0,FBI
+1244,CA00112,San Leandro,Municipal Police,Alameda,California,1980,November,1,Murder or Manslaughter,Yes,Male,32,White,Not Hispanic,Male,24,White,Not Hispanic,Unknown,Blunt Object,0,0,FBI
+1245,CA00113,Union City,Municipal Police,Alameda,California,1980,March,1,Murder or Manslaughter,Yes,Male,17,Asian/Pacific Islander,Unknown,Male,18,White,Unknown,Unknown,Knife,0,1,FBI
+1246,CA00113,Union City,Municipal Police,Alameda,California,1980,June,1,Murder or Manslaughter,No,Male,29,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+1247,CA00113,Union City,Municipal Police,Alameda,California,1980,July,1,Murder or Manslaughter,No,Female,46,Black,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+1248,CA00113,Union City,Municipal Police,Alameda,California,1980,September,1,Murder or Manslaughter,Yes,Male,24,White,Not Hispanic,Male,18,White,Hispanic,Unknown,Knife,0,0,FBI
+1249,CA00113,Union City,Municipal Police,Alameda,California,1980,October,1,Murder or Manslaughter,Yes,Female,22,White,Hispanic,Male,22,White,Hispanic,Wife,Handgun,0,0,FBI
+1250,CA00113,Union City,Municipal Police,Alameda,California,1980,November,1,Murder or Manslaughter,Yes,Male,28,White,Hispanic,Female,32,White,Hispanic,Boyfriend,Knife,0,0,FBI
+1251,CA00113,Union City,Municipal Police,Alameda,California,1980,November,2,Manslaughter by Negligence,Yes,Male,18,White,Hispanic,Male,20,White,Hispanic,Acquaintance,Handgun,0,0,FBI
+1252,CA00121,San Francisco Bart: Alameda County,Special Police,San Francisco,California,1980,November,1,Murder or Manslaughter,Yes,Male,70,White,Not Hispanic,Male,28,Black,Not Hispanic,Unknown,Blunt Object,0,0,FBI
+1253,CA00198,Alameda State Police,State Police,Alameda,California,1980,December,1,Murder or Manslaughter,Yes,Male,37,Black,Not Hispanic,Male,0,Black,Not Hispanic,Unknown,Handgun,0,0,FBI
+1254,CA00200,Alpine,Sheriff,Alpine,California,1980,October,1,Murder or Manslaughter,Yes,Female,49,White,Not Hispanic,Male,46,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+1255,CA00400,Butte,Sheriff,Butte,California,1980,October,1,Murder or Manslaughter,Yes,Male,74,White,Not Hispanic,Male,28,White,Not Hispanic,Unknown,Unknown,0,0,FBI
+1256,CA00400,Butte,Sheriff,Butte,California,1980,December,1,Murder or Manslaughter,Yes,Female,29,White,Not Hispanic,Male,29,White,Not Hispanic,Wife,Strangulation,0,0,FBI
+1257,CA00401,Biggs,Municipal Police,Butte,California,1980,September,1,Murder or Manslaughter,No,Female,39,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+1258,CA00403,Gridley,Municipal Police,Butte,California,1980,March,1,Murder or Manslaughter,No,Female,34,White,Unknown,Unknown,0,Unknown,Unknown,Wife,Handgun,0,0,FBI
+1259,CA00403,Gridley,Municipal Police,Butte,California,1980,August,1,Murder or Manslaughter,No,Female,36,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+1260,CA00403,Gridley,Municipal Police,Butte,California,1980,December,1,Murder or Manslaughter,Yes,Female,29,Unknown,Unknown,Male,21,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+1261,CA00404,Oroville,Municipal Police,Butte,California,1980,September,1,Murder or Manslaughter,Yes,Female,24,White,Not Hispanic,Male,23,Black,Not Hispanic,Girlfriend,Blunt Object,0,0,FBI
+1262,CA00600,Colusa,Sheriff,Colusa,California,1980,June,1,Murder or Manslaughter,No,Female,20,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,1,FBI
+1263,CA00600,Colusa,Sheriff,Colusa,California,1980,August,1,Murder or Manslaughter,Yes,Female,20,White,Not Hispanic,Male,35,White,Not Hispanic,Unknown,Handgun,0,0,FBI
+1264,CA00700,Contra Costa,Sheriff,Contra Costa,California,1980,January,1,Murder or Manslaughter,No,Male,27,Unknown,Unknown,Unknown,0,Unknown,Unknown,Unknown,Firearm,0,1,FBI
